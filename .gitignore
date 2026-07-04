@@ -1,0 +1,12 @@
+# dependencies
+scraper/node_modules/
+
+# logs
+data/*.log
+
+# W컨셉 API 키 캐시 (런타임 자동 생성)
+scraper/wconcept-key.txt
+
+# OS
+Thumbs.db
+.DS_Store

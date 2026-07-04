@@ -1,0 +1,24 @@
+{
+  "updatedAt": "2026-07-04T20:13:24+09:00",
+  "dates": [
+    "2026-07-04"
+  ],
+  "sources": [
+    {
+      "id": "naver",
+      "name": "네이버"
+    },
+    {
+      "id": "musinsa",
+      "name": "무신사"
+    },
+    {
+      "id": "wconcept",
+      "name": "W컨셉"
+    },
+    {
+      "id": "29cm",
+      "name": "29cm"
+    }
+  ]
+}

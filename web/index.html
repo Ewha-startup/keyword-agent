@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>플랫폼 인기 키워드 대시보드</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div class="title-row">
+        <h1>플랫폼 내 인기 키워드</h1>
+        <span class="badge">패션 검색어</span>
+      </div>
+      <div class="controls">
+        <label for="dateSel">조회일자</label>
+        <select id="dateSel"></select>
+        <span id="collectedAt" class="muted"></span>
+      </div>
+      <div class="meta-row">
+        <span id="nextUpdate" class="pill">매일 오전 8시 자동 업데이트</span>
+        <span id="dayCount" class="pill ghost"></span>
+      </div>
+    </header>
+
+    <main id="cards" class="cards"></main>
+
+    <footer class="foot">
+      <span class="muted">데이터는 각 플랫폼의 실시간 인기검색어를 매일 오전 8시에 수집하여 일자별로 누적합니다.</span>
+    </footer>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
