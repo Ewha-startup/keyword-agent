@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-09",
-  "collectedAt": "2026-07-09T08:00:06+09:00",
+  "date": "2026-07-08",
+  "collectedAt": "2026-07-08T08:03:44+09:00",
   "sources": [
     {
       "id": "naver",
@@ -16,67 +16,67 @@
       "items": [
         {
           "rank": 1,
-          "keyword": "반팔",
-          "change": 0,
-          "isNew": false
-        },
-        {
-          "rank": 2,
           "keyword": "레인부츠",
           "change": 0,
           "isNew": false
         },
         {
+          "rank": 2,
+          "keyword": "반팔",
+          "change": 0,
+          "isNew": false
+        },
+        {
           "rank": 3,
-          "keyword": "아디다스",
+          "keyword": "장화",
           "change": 0,
           "isNew": false
         },
         {
           "rank": 4,
-          "keyword": "가방",
-          "change": 1,
+          "keyword": "반바지",
+          "change": 0,
           "isNew": false
         },
         {
           "rank": 5,
-          "keyword": "반바지",
-          "change": 3,
+          "keyword": "샌들",
+          "change": 0,
           "isNew": false
         },
         {
           "rank": 6,
-          "keyword": "백팩",
-          "change": 1,
+          "keyword": "아디다스",
+          "change": 0,
           "isNew": false
         },
         {
           "rank": 7,
           "keyword": "버뮤다팬츠",
-          "change": -1,
+          "change": 1,
           "isNew": false
         },
         {
           "rank": 8,
-          "keyword": "모자",
-          "change": -4,
+          "keyword": "가방",
+          "change": -1,
           "isNew": false
         },
         {
           "rank": 9,
-          "keyword": "장화",
+          "keyword": "백팩",
           "change": 1,
           "isNew": false
         },
         {
           "rank": 10,
-          "keyword": "크록스",
-          "change": 9,
+          "keyword": "양말",
+          "change": 4,
           "isNew": false
         }
       ],
       "sourceUpdatedAt": null,
-      "dataDate": "2026-07-09"
+      "dataDate": "2026-07-08"
     },
     {
       "id": "wconcept",
@@ -86,66 +86,66 @@
         {
           "rank": 1,
           "keyword": "원피스",
-          "change": 0,
+          "change": 3,
           "isNew": false
         },
         {
           "rank": 2,
-          "keyword": "스포츠브라",
-          "change": 0,
+          "keyword": "블라우스",
+          "change": 5,
           "isNew": false
         },
         {
           "rank": 3,
-          "keyword": "샌들",
-          "change": 0,
+          "keyword": "레인부츠",
+          "change": 3,
           "isNew": false
         },
         {
           "rank": 4,
-          "keyword": "레인부츠",
-          "change": 0,
+          "keyword": "수영복",
+          "change": 3,
           "isNew": false
         },
         {
           "rank": 5,
-          "keyword": "수영복",
-          "change": 2,
+          "keyword": "젤리슈즈",
+          "change": 0,
           "isNew": false
         },
         {
           "rank": 6,
-          "keyword": "레이스브라",
+          "keyword": "나시",
           "change": 5,
           "isNew": false
         },
         {
           "rank": 7,
-          "keyword": "여름원피스",
+          "keyword": "여성가방",
           "change": 0,
           "isNew": false
         },
         {
           "rank": 8,
-          "keyword": "아디다스",
-          "change": 12,
+          "keyword": "반바지",
+          "change": 0,
           "isNew": false
         },
         {
           "rank": 9,
-          "keyword": "가방",
-          "change": 5,
+          "keyword": "긴팔티",
+          "change": 0,
           "isNew": false
         },
         {
           "rank": 10,
-          "keyword": "여름 셋업",
+          "keyword": "여름원피스",
           "change": 0,
           "isNew": false
         }
       ],
-      "sourceUpdatedAt": "07.09 07:00",
-      "dataDate": "2026-07-09"
+      "sourceUpdatedAt": "07.08 08:00",
+      "dataDate": "2026-07-08"
     },
     {
       "id": "29cm",
@@ -160,61 +160,61 @@
         },
         {
           "rank": 2,
-          "keyword": "레인부츠",
+          "keyword": "프라우허",
           "change": null,
           "isNew": true
         },
         {
           "rank": 3,
-          "keyword": "블라우스",
-          "change": 1,
-          "isNew": false
-        },
-        {
-          "rank": 4,
-          "keyword": "수영복",
-          "change": 5,
-          "isNew": false
-        },
-        {
-          "rank": 5,
-          "keyword": "에코백",
-          "change": 1,
-          "isNew": false
-        },
-        {
-          "rank": 6,
-          "keyword": "샌들",
-          "change": 2,
-          "isNew": false
-        },
-        {
-          "rank": 7,
-          "keyword": "원피스",
+          "keyword": "노티아",
           "change": 3,
           "isNew": false
         },
         {
-          "rank": 8,
-          "keyword": "몽돌",
+          "rank": 4,
+          "keyword": "블라우스",
+          "change": -2,
+          "isNew": false
+        },
+        {
+          "rank": 5,
+          "keyword": "텀블러",
           "change": null,
           "isNew": true
+        },
+        {
+          "rank": 6,
+          "keyword": "에코백",
+          "change": -1,
+          "isNew": false
+        },
+        {
+          "rank": 7,
+          "keyword": "오늘보틀",
+          "change": null,
+          "isNew": true
+        },
+        {
+          "rank": 8,
+          "keyword": "샌들",
+          "change": -5,
+          "isNew": false
         },
         {
           "rank": 9,
-          "keyword": "쪼리",
-          "change": null,
-          "isNew": true
+          "keyword": "수영복",
+          "change": -5,
+          "isNew": false
         },
         {
           "rank": 10,
-          "keyword": "아디다스",
-          "change": null,
-          "isNew": true
+          "keyword": "원피스",
+          "change": -1,
+          "isNew": false
         }
       ],
-      "sourceUpdatedAt": "2026-07-09T07:00:00.000000+09:00",
-      "dataDate": "2026-07-09"
+      "sourceUpdatedAt": "2026-07-08T07:00:00.000000+09:00",
+      "dataDate": "2026-07-08"
     }
   ]
 }

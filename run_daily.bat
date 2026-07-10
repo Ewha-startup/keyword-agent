@@ -9,4 +9,7 @@ where node >nul 2>nul
 if not %errorlevel%==0 if exist "%ProgramFiles%\nodejs\node.exe" set "NODE=%ProgramFiles%\nodejs\node.exe"
 
 "%NODE%" "%~dp0scraper\scrape.js" >> "%~dp0data\scheduler.log" 2>&1
+
+REM 베스트 키워드들의 검색 추이(증감) 수집 — 월별 데이터라 최근 갱신분은 자동 스킵
+"%NODE%" "%~dp0scraper\trends.js" >> "%~dp0data\scheduler.log" 2>&1
 endlocal

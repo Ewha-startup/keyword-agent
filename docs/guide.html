@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>FEDIT 사용자 가이드 (일차안)</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --panel:#fff; --line:#e8ebef; --text:#1a1d21; --muted:#7c828b;
+    --accent:#111418; --brand:#2f6bff; --up:#e5484d; --down:#2f6bff;
+    --lock:#7c3aed; --warn:#c2620d; --tip:#0f9d58;
+    --radius:14px;
+    --font:-apple-system,BlinkMacSystemFont,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:var(--font);line-height:1.6;font-size:15px}
+  a{color:inherit}
+
+  .layout{display:grid;grid-template-columns:264px 1fr;max-width:1200px;margin:0 auto;gap:28px;padding:0 20px}
+
+  /* Sidebar TOC */
+  aside{position:sticky;top:0;align-self:start;height:100vh;overflow-y:auto;padding:26px 8px 40px}
+  .brand{display:flex;align-items:center;gap:9px;font-weight:800;font-size:19px;letter-spacing:-.5px;margin:0 8px 4px}
+  .brand .dot{width:24px;height:24px;border-radius:7px;background:var(--accent);color:#fff;display:flex;align-items:center;justify-content:center;font-size:13px}
+  .brand small{font-weight:600;color:var(--muted);font-size:11px}
+  .toc{margin-top:18px;list-style:none;padding:0}
+  .toc li a{display:block;padding:7px 12px;border-radius:8px;color:var(--muted);text-decoration:none;font-size:13.5px;font-weight:500}
+  .toc li a:hover{background:#eef0f3;color:var(--text)}
+  .toc li a.active{background:var(--accent);color:#fff}
+  .toc .sub a{padding-left:24px;font-size:12.5px}
+
+  /* Main */
+  main{padding:26px 0 90px;min-width:0}
+  .hero{background:linear-gradient(135deg,#111418,#2b2f36);color:#fff;border-radius:18px;padding:26px 28px;margin-bottom:24px}
+  .hero h1{margin:0 0 6px;font-size:24px;letter-spacing:-.6px}
+  .hero p{margin:0;color:#c7ccd4;font-size:13.5px}
+  .hero .tag{display:inline-block;margin-top:12px;font-size:11.5px;background:rgba(255,255,255,.12);padding:4px 10px;border-radius:999px}
+
+  section.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:22px 24px;margin-bottom:18px;scroll-margin-top:18px}
+  section.card > h2{margin:0 0 4px;font-size:19px;letter-spacing:-.4px}
+  section.card > h2 .num{color:var(--brand);font-weight:800;margin-right:8px}
+  .purpose{color:var(--muted);font-size:13.5px;margin:2px 0 16px;border-left:3px solid var(--line);padding-left:12px}
+  .purpose b{color:var(--text)}
+  h3{font-size:15.5px;margin:20px 0 8px}
+  p{margin:8px 0}
+  ul{margin:8px 0;padding-left:20px}
+  li{margin:4px 0}
+  code{background:#eef0f3;padding:1px 6px;border-radius:5px;font-size:12.5px;font-family:ui-monospace,Menlo,Consolas,monospace}
+
+  table{width:100%;border-collapse:collapse;margin:12px 0;font-size:13.5px}
+  th,td{text-align:left;padding:9px 11px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{background:#f4f6f8;font-weight:700;color:#43484f;border-bottom:1px solid var(--line)}
+  tr:last-child td{border-bottom:none}
+
+  .callout{border-radius:10px;padding:12px 14px;margin:12px 0;font-size:13.5px;display:flex;gap:10px}
+  .callout .ico{flex:0 0 auto;font-size:15px;line-height:1.4}
+  .callout.tip{background:#eafaf1;border:1px solid #bfe9cf}
+  .callout.lock{background:#f3efff;border:1px solid #ddd0fb}
+  .callout.warn{background:#fdf3e7;border:1px solid #f4d9b5}
+  .callout b{color:var(--text)}
+
+  .arrow-up{color:var(--up);font-weight:700}
+  .arrow-dn{color:var(--down);font-weight:700}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
+  .chip{background:#eef0f3;border-radius:999px;padding:4px 11px;font-size:12.5px;color:#42474e}
+  .flow{background:#f4f6f8;border:1px dashed var(--line);border-radius:10px;padding:12px 14px;font-size:13px;color:#42474e;margin:12px 0}
+
+  .review{background:#fff8e6;border:1px solid #f0e2b6}
+  footer{max-width:1200px;margin:0 auto;padding:24px 20px 50px;color:var(--muted);font-size:12px;text-align:center}
+
+  @media(max-width:860px){
+    .layout{grid-template-columns:1fr;gap:0}
+    aside{position:static;height:auto;padding:18px 4px 6px}
+    .toc{display:flex;flex-wrap:wrap;gap:4px}
+    .toc .sub{display:none}
+    main{padding-top:6px}
+  }
+</style>
+</head>
+<body>
+<div class="layout">
+
+  <aside>
+    <div class="brand"><span class="dot">F</span> FEDIT <small>가이드</small></div>
+    <ul class="toc">
+      <li><a href="#s0">0. 공통 화면 구성</a></li>
+      <li><a href="#s1">1. 실시간 아이템 (홈)</a></li>
+      <li><a href="#s2">2. 상품 분석</a></li>
+      <li><a href="#s3">3. 색상 분석</a></li>
+      <li><a href="#s4">4. 유형 분석</a></li>
+      <li><a href="#s5">5. 패션쇼 분석</a></li>
+      <li><a href="#s6">6. 내 보드 / 저장함</a></li>
+      <li><a href="#s7">7. 설정 · 계정</a></li>
+      <li><a href="#sA">부록 A. 용어 사전</a></li>
+      <li><a href="#sB">부록 B. 사용 시나리오</a></li>
+      <li><a href="#sR">리뷰 필요 항목</a></li>
+    </ul>
+  </aside>
+
+  <main>
+    <div class="hero">
+      <h1>FEDIT 사용자 가이드</h1>
+      <p>데이터로 분석하는 패션 트렌드의 새로운 기준 · 화면별 사용법 (일차안)</p>
+      <span class="tag">※ 목업 기준 초안 — 일부 수치·정의는 확정 후 보정 필요</span>
+    </div>
+
+    <!-- 0 -->
+    <section class="card" id="s0">
+      <h2><span class="num">0</span>공통 화면 구성</h2>
+
+      <h3>0-1. 내비게이션</h3>
+      <p>FEDIT의 기본 레이아웃은 <b>좌측 세로 사이드바 + 상단 브랜드 바</b> 구조입니다.</p>
+      <ul>
+        <li><b>좌측 세로 사이드바</b>(고정): 실시간 아이템 · 상품 분석 · 색상 분석 · 유형 분석 · 패션쇼 분석</li>
+        <li><b>상단 브랜드 바</b>: 우측 <b>브랜드</b> 버튼으로 대상 브랜드를 선택하면, 현재 보고 있는 브랜드들이 상단에 <b>가로 칩</b>으로 나열됩니다. 이 브랜드 세트가 모든 분석 화면의 기준이 됩니다.</li>
+      </ul>
+      <div class="chips">
+        <span class="chip">브랜드 122 ▾</span><span class="chip">ADIDAS ✕</span><span class="chip">NIKE ✕</span>
+        <span class="chip">CHANEL ✕</span><span class="chip">브랜드 ✕</span><span class="chip">…</span>
+      </div>
+      <table>
+        <tr><th>위치</th><th>요소</th><th>설명</th></tr>
+        <tr><td>좌측 상단</td><td>로고 / 사이드바 접기</td><td>홈 이동 / 사이드바 축소</td></tr>
+        <tr><td>좌측 하단</td><td>최근 본 항목</td><td>최근 열람 상품 바로가기</td></tr>
+        <tr><td>좌측 최하단</td><td>가이드 · 의견보내기 · 사용자</td><td>도움말 · 피드백 · 계정(설정 진입)</td></tr>
+        <tr><td>우측 상단</td><td><b>브랜드(예: 122)</b> · <b>내 보드(저장함)</b></td><td>브랜드 선택 모달 / 저장 보드</td></tr>
+        <tr><td>상단</td><td>선택된 브랜드 가로 칩</td><td>현재 분석 대상 브랜드 목록</td></tr>
+        <tr><td>상단(일부)</td><td><b>어덜트 / 키즈</b> 토글</td><td>분석 대상 시장 전환</td></tr>
+      </table>
+
+      <h3>0-2. 브랜드 선택 (상단 <code>브랜드</code> 버튼)</h3>
+      <ul>
+        <li>상단 우측 <b>브랜드</b>(선택 수 표시, 예: <code>122</code>) 클릭 → <b>브랜드 필터</b> 모달 오픈</li>
+        <li>모달에 <b>현재 선택된 브랜드</b>가 함께 표시</li>
+        <li>검색창 입력 또는 탭 탐색: 선택된 브랜드 · 즐겨찾기(준비중) · SPA 브랜드 · 명품 브랜드 · 디자이너</li>
+        <li>브랜드 칩 선택/해제(<code>00개</code> 표시)</li>
+        <li><b>해당 브랜드 데이터 보기</b> 적용 / <b>선택 초기화하기</b> 해제</li>
+        <li>적용하면 선택 브랜드가 <b>상단 가로 칩</b>으로 뜨고 모든 분석이 그 세트 기준으로 갱신</li>
+      </ul>
+      <div class="callout tip"><span class="ico">💡</span><div>여기서 고른 브랜드가 상품·색상·유형·패션쇼 분석의 <b>공통 기준 대상</b>이 됩니다.</div></div>
+
+      <h3>0-3. 공통 조작</h3>
+      <ul>
+        <li>상단 <b>어덜트/키즈</b> 토글로 데이터 대상군 전환</li>
+        <li>지표 옆 <b>(?)</b> 아이콘 호버 시 설명 툴팁</li>
+        <li><b>👍 / 👎</b> 는 AI 분석 결과 피드백(정확도 개선 반영)</li>
+        <li>표/카드의 <code>&gt;</code> 는 상세 펼치기, 데이터가 있는 화면은 <b>Excel</b> 내보내기 지원</li>
+      </ul>
+      <div class="callout lock"><span class="ico">🔒</span><div>
+        <b>지수·스코어 공통 원칙:</b> FEDIT의 모든 지수(브랜드/상품/구매 화력도, 트렌드 스코어 등)는
+        <b>대외비</b>이며 플랫폼별·상품별 클릭·전환 등 여러 지표를 <b>종합적으로 계산</b>한 값입니다.
+        <b>미입점 플랫폼</b>의 데이터는 반영되지 않아 일부 값이 <b>빈값으로 나올 수 있습니다.</b>
+      </div></div>
+    </section>
+
+    <!-- 1 -->
+    <section class="card" id="s1">
+      <h2><span class="num">1</span>실시간 아이템 (홈 대시보드)</h2>
+      <p class="purpose"><b>목적</b> 지금 플랫폼에서 뜨는 검색어·트렌드 상품을 실시간 파악 &nbsp;·&nbsp; <b>진입</b> 좌측 메뉴 최상단 <code>실시간 아이템</code></p>
+
+      <h3>1-1. 플랫폼 내 인기 키워드 (상단)</h3>
+      <p>무신사 · 29CM · W컨셉 3개 플랫폼의 <b>인기검색어 TOP 10</b>을 나란히 표시.</p>
+      <ul>
+        <li><b>날짜 선택</b> <code>오늘(2025.01.16) ▾</code> : 기준일 변경 &nbsp;·&nbsp; <b>이전달 / 다음달</b> 이동</li>
+        <li>순위 화살표: <span class="arrow-up">▲ 상승</span> · <span class="arrow-dn">▼ 하락</span> · — 변동 없음</li>
+        <li>세 플랫폼 <b>교차 비교</b>로 트렌드 범위(전체 vs 채널 특화) 판단</li>
+      </ul>
+
+      <h3>1-2. 트렌드 항목 (하단)</h3>
+      <p>플랫폼 탭(무신사·29CM·W컨셉·통합) / 카테고리 탭(상의·아우터·바지·원피스/스커트) / 주차 이동.</p>
+      <p><b>① 트렌드 항목 리스트(좌)</b> → 클릭 시 우측 패널 갱신<br/>
+         <b>② 지표 카드(우상)</b> — 상품이 "왜" 뜨는지 3축 분석</p>
+
+      <div class="callout lock"><span class="ico">🔒</span><div>
+        <b>지수 산출 방식은 대외비입니다.</b> 세 지수는 모두 플랫폼별·상품별 클릭·전환 등 여러 지표를
+        <b>종합적으로 계산한 값</b>이며, 구체 로직·가중치는 공개하지 않습니다. (아래 '참고 요소'는 해석용 예시일 뿐 산식이 아님)
+      </div></div>
+      <div class="callout warn"><span class="ico">⚠️</span><div>
+        <b>일부 플랫폼에 미입점된 상품/브랜드</b>는 해당 플랫폼 데이터가 없어 지수가
+        <b>빈값(또는 낮은 값)으로 표시될 수 있습니다.</b> 값이 비어 보인다고 반드시 인기가 없는 것은 아니며, 입점 플랫폼 범위를 함께 고려해 해석하세요.
+      </div></div>
+
+      <table>
+        <tr><th>지표</th><th>의미</th><th>참고 요소(예시)</th></tr>
+        <tr><td><b>브랜드 지수</b></td><td>브랜드 시장 반응 강도</td><td>유사 브랜드 대비 시장 화력도</td></tr>
+        <tr><td><b>상품 지수</b></td><td>상품 트렌드성·주목도</td><td>유형 트렌드성, 찜하기 등</td></tr>
+        <tr><td><b>구매 화력도</b></td><td>실제 구매 전환 강도</td><td>판매수량, 리오더 여부(n차)</td></tr>
+      </table>
+
+      <p><b>③ AI 개요</b> — 지표 종합 요약(예: '상업 검증 단계'), <code>상품 상세 보기 &gt;</code>로 이동<br/>
+         <b>④ 디테일 유사 아이템</b> — 디자인 디테일이 비슷한 상품 추천(<code>오버핏</code> 등 태그)</p>
+      <div class="flow">읽는 순서 &nbsp;▸&nbsp; 리스트(무엇) → 지표(왜) → AI 개요(어느 단계) → 유사 아이템(대응 상품군)</div>
+    </section>
+
+    <!-- 2 -->
+    <section class="card" id="s2">
+      <h2><span class="num">2</span>상품 분석</h2>
+      <p class="purpose"><b>목적</b> 조건별 상품 탐색 + 개별 상품의 속성·지표·유사 상품 심층 분석 &nbsp;·&nbsp; <b>진입</b> <code>상품 분석</code></p>
+      <p><b>좌: 필터 → 중앙: 상품 그리드 → 우: 상품 상세</b> 3단 구조.</p>
+      <ul>
+        <li><b>필터</b>: <code>2025년</code>·<code>시즌</code> + 성별 · 유형 · 색상 · 디테일 · 소재 · 패턴. 선택값은 칩(<code>자켓 ✕</code>)으로 누적, <b>초기화</b>로 전체 해제.</li>
+        <li><b>그리드</b>: 카드에 브랜드명 · 상품명 · 가격 · 누적조회수 · 누적판매 · 노출 플랫폼(무/W/29). 클릭 시 상세 오픈.</li>
+        <li><b>상품 상세</b>(예: <code>DIOR – Caro 재킷</code>)
+          <ul>
+            <li>이미지, 정가/할인가, 성별, 신상 업데이트일, 노출 플랫폼 뱃지</li>
+            <li><b>속성 분석</b>: 색상·소매·기장·넥라인·핏·디테일·패턴 (각 👍/👎 피드백)</li>
+            <li><b>AI 개요</b> / <b>지표 카드</b>(구매화력도·상품·브랜드 + 유형 트렌드성·실 품절 비율)</li>
+            <li><b>유사한 스타일 아이템</b></li>
+            <li><b>폴더명 ▾ → 저장하기</b>로 내 보드에 저장</li>
+          </ul>
+        </li>
+      </ul>
+      <div class="callout tip"><span class="ico">💡</span><div>속성 태그가 실제와 다르면 👎로 피드백 → 태그·추천 품질이 개선됩니다.</div></div>
+    </section>
+
+    <!-- 3 -->
+    <section class="card" id="s3">
+      <h2><span class="num">3</span>색상 분석</h2>
+      <p class="purpose"><b>목적</b> 시즌 색상 트렌드 및 브랜드 색상 전략 비교, 신규 부상 색 포착 &nbsp;·&nbsp; <b>진입</b> <code>색상 분석</code></p>
+      <p>상단 <b>시즌선택</b>(예: <code>2-7</code>), 우상단 <b>그리드/리스트 보기</b> 토글.</p>
+
+      <h3>3-1. 색상비중 비교</h3>
+      <ul>
+        <li><b>전체 브랜드 색상 분석</b>: 시장 전체 색상 비중 트리맵(블랙 40% 등) + <b>전 시즌 대비 증감%</b></li>
+        <li><b>브랜드별 카드</b>(예: Dior): 특정 브랜드 색상 구성 비교</li>
+        <li><b>브랜드 추가하기(+)</b>: 비교 대상 추가(카드 <code>✕</code>로 제거)</li>
+        <li>읽는 법: 블록 크기 = 비중, 뱃지 = 전 시즌 대비 변화</li>
+      </ul>
+
+      <h3>3-2. 신규 주목 색상 (트렌드 컬러)</h3>
+      <p>"여러 경쟁사가 소량으로 동시 출시 중인 유행 색상"(예: <b>세이지 그린 88점</b>).</p>
+      <ul>
+        <li><b>트렌드 스코어</b>(예: 88점) · <b>성장 가속도</b> · <b>2개 이상 경쟁사 동시 출시</b> · <b>평균 비중/총 출시 수</b> · <b>⭐AI 추천</b></li>
+        <li>하단: 브랜드별 비중(A.P.C. 4% 등) + <code>관련 아이템</code></li>
+      </ul>
+      <div class="callout lock"><span class="ico">🔒</span><div>트렌드 스코어 역시 <b>대외비</b>이며 여러 지표를 종합 계산한 값입니다. 입점 플랫폼 범위에 따라 일부 값이 비어 보일 수 있습니다.</div></div>
+      <div class="callout tip"><span class="ico">💡</span><div>"소량 + 다수 브랜드 동시 출시 + 성장 가속" 조합 = 확산 직전 신호 → 초기 진입 색 후보.</div></div>
+    </section>
+
+    <!-- 4 -->
+    <section class="card" id="s4">
+      <h2><span class="num">4</span>유형 분석</h2>
+      <p class="purpose"><b>목적</b> 최근 주목받는 상품 '유형'(카테고리·핏·소재)과 연관 키워드를 브랜드별 비교 &nbsp;·&nbsp; <b>진입</b> <code>유형 분석</code></p>
+      <p><b>전체 + 브랜드별</b>(ADIDAS·NIKE·CHANEL·A.P.C.·Acne Studios·Jacquemus·The Kooples·Joseph 등) 카드를 격자로 나열합니다.</p>
+      <p><b>카드 구성</b></p>
+      <ul>
+        <li>헤더: <code>브랜드명 | 전체 합계</code>(총 SKU)</li>
+        <li><b>색상 비중 바</b>: 상단 스택형 막대(카테고리 구성 비율). 막대 호버 시 값 툴팁(예: <code>아우터 49</code>).</li>
+        <li><b>카테고리 표</b>: <code>카테고리 · 합계(SKU) · 비중</code> — 예: 상의 66(24%) · 스커트 63(23%) · 재킷 59(21%) · 트라우저 49(18%) · 반팔 티셔츠 42(15%)</li>
+        <li><b>행 펼치기(<code>&gt;</code>)</b>: 해당 카테고리의 세부 속성 순위를 <b>핏 · 소재 · 기타</b> 3열로 표시
+          <ul>
+            <li>핏: 1위 루즈핏 · 2위 미디 기장 · 3위 맥시 기장</li>
+            <li>소재: 1위 면 · 2위 폴리에스터 · 3위 레이온</li>
+            <li>기타: 1위 프론트 슬릿 · 2위 드로우 스트링 · 3위 컷아웃 디자인</li>
+          </ul>
+        </li>
+        <li>우상단 <b>Excel</b>로 표 내보내기</li>
+      </ul>
+      <div class="callout tip"><span class="ico">💡</span><div>"전체" 카드로 시장 평균 유형 구성을 본 뒤, 특정 브랜드 카드와 대조해 어떤 카테고리·핏·소재에 치우쳐 있는지 확인합니다.</div></div>
+    </section>
+
+    <!-- 5 -->
+    <section class="card" id="s5">
+      <h2><span class="num">5</span>패션쇼 분석 <small style="font-weight:500;color:var(--muted);font-size:13px">(Fashion Week Runway Analysis)</small></h2>
+      <p class="purpose"><b>목적</b> 10대 브랜드 런웨이를 비교해 시즌 트렌드 인사이트를 도출하고 실무 적용 포인트로 연결 &nbsp;·&nbsp; <b>진입</b> <code>패션쇼 분석</code></p>
+      <p>상단 <b>Season Select</b>(예: <code>2025 Spring/Summer</code>)로 시즌 선택.</p>
+
+      <h3>5-1. 시즌 전반 분석</h3>
+      <ul>
+        <li><b>시즌 인사이트</b>: 시즌 콘셉트 요약 문장(예: "과시 대신 여백, 구조보다 유연함…")</li>
+        <li><b>대표 포인트 컬러</b>: 컬러 스와치 + 명칭(피날레 레드·코발트 블루·헌터 그린·스톤 그레이 등)과 조합 코멘트</li>
+        <li><b>주요 소재 & 텍스처</b>: 핵심 소재 키워드(경량 트위드, 프린지/크러시드 가공 등) + 예시 썸네일</li>
+        <li><b>실무 적용 포인트</b>: 체크리스트형 제안(수트 셋업, 스커트 라인, 트위드 라인, 핏 조정 등)</li>
+        <li><b>주요 아이템 & 디테일</b>: 런웨이 이미지 그리드 + 라벨(크롭 트위드 재킷, 로우슬렁 스트레이트 팬츠, 오버사이즈 셔츠, 미디 스커트 등)</li>
+      </ul>
+
+      <h3>5-2. 브랜드별 컬렉션 분석</h3>
+      <ul>
+        <li>브랜드 탭: <b>Chanel · Miu Miu · Prada · Dior · Loewe · Bottega Veneta</b></li>
+        <li>각 브랜드: 컬렉션 타이틀·시즌(예: 2025 S/S), 룩 설명, <code>자세히 보기</code></li>
+        <li><b>Color Palette</b>: 브랜드 대표 색(아이보리·베이지·그레이·네이비 등)</li>
+        <li><b>핵심 포인트</b>: 룩별 요약(경량화 트위드로 봄 대응 / 미니 실루엣·로우라이즈 강조 / 시어 소재 믹스 / 클래식 디테일의 현대적 재해석 등)</li>
+      </ul>
+      <div class="callout tip"><span class="ico">💡</span><div>런웨이(5장)에서 잡은 컬러·소재·실루엣을 유형 분석(4장)·색상 분석(3장)의 실제 플랫폼 데이터와 대조하면 "쇼 트렌드 → 리테일 확산" 여부를 검증할 수 있습니다.</div></div>
+    </section>
+
+    <!-- 6 -->
+    <section class="card" id="s6">
+      <h2><span class="num">6</span>내 보드 / 저장함</h2>
+      <p class="purpose"><b>목적</b> 관심 상품을 저장·비교하는 개인 작업 공간</p>
+      <ul>
+        <li>상품 분석 상세에서 <b>폴더명 ▾ → 저장하기</b>로 담은 아이템이 이곳에 모입니다.</li>
+        <li>우측 상단 <b>내 보드(저장함)</b>에서 보드를 전환/열람.</li>
+        <li>좌측 필터는 상품 분석과 동일하게 동작.</li>
+      </ul>
+      <div class="callout tip"><span class="ico">💡</span><div>기획 주제별 보드 분리(예: "25FW 아우터 후보")로 색상·유형·구매화력도를 한 번에 비교.</div></div>
+    </section>
+
+    <!-- 7 -->
+    <section class="card" id="s7">
+      <h2><span class="num">7</span>설정 · 계정</h2>
+      <p class="purpose"><b>진입</b> 좌측 하단 사용자 클릭</p>
+      <table>
+        <tr><th>그룹</th><th>항목</th><th>설명</th></tr>
+        <tr><td><b>설정</b></td><td>내 정보 / 알림</td><td>계정 정보·로그인 방식 / 알림 수신 설정</td></tr>
+        <tr><td><b>에이전트</b></td><td>FEDI 채팅 목록 / AI 사용 가이드</td><td>AI 에이전트 <b>FEDI</b> 대화 내역 / AI 기능 사용법</td></tr>
+        <tr><td><b>고객 지원</b></td><td>FAQ / 1:1 문의</td><td>도움말·문의</td></tr>
+        <tr><td><b>사용 권한 및 청구</b></td><td>구독 관리</td><td>요금제·결제</td></tr>
+      </table>
+      <p><b>내 정보 화면</b> — 기본 정보(이메일 <code>변경하기</code>, 비밀번호 <code>변경하기</code>) · 계정 관리(<code>로그아웃</code> / <b>회원탈퇴</b>) · <b>FEDIT Pro 업그레이드</b>(무제한 분석·트렌드 리포트)</p>
+      <div class="callout warn"><span class="ico">⚠️</span><div><b>회원탈퇴</b>는 계정을 영구 삭제하며 되돌릴 수 없습니다. 안내 문구를 반드시 확인하세요.</div></div>
+    </section>
+
+    <!-- A -->
+    <section class="card" id="sA">
+      <h2>부록 A. 핵심 용어·지표 사전</h2>
+      <table>
+        <tr><th>용어</th><th>뜻</th><th>비고</th></tr>
+        <tr><td>브랜드 지수</td><td>브랜드 시장 반응 강도</td><td>플랫폼·상품별 클릭·전환 종합 (산식 <b>대외비</b>)</td></tr>
+        <tr><td>상품 지수</td><td>상품 트렌드성·주목도</td><td>동상 (산식 <b>대외비</b>)</td></tr>
+        <tr><td>구매 화력도</td><td>실제 구매 전환 강도</td><td>동상 (산식 <b>대외비</b>)</td></tr>
+        <tr><td>유형 트렌드성</td><td>상품 유형의 트렌드 정도</td><td></td></tr>
+        <tr><td>실 품절 비율</td><td>실제 품절로 이어진 비율</td><td>※정의 확정필요</td></tr>
+        <tr><td>리오더 여부</td><td>재발주 발생·차수(n차)</td><td>검증된 수요 신호</td></tr>
+        <tr><td>성장 가속도</td><td>최근 지표 증가 속도</td><td>색상/트렌드 부상 판단</td></tr>
+        <tr><td>트렌드 스코어(점)</td><td>색상·아이템 부상 강도</td><td>여러 지표 종합 (산식 <b>대외비</b>), 예: 세이지 그린 88점</td></tr>
+        <tr><td>합계(SKU)</td><td>해당 유형의 상품 수</td><td>유형 분석</td></tr>
+        <tr><td>비중(%)</td><td>브랜드 내 카테고리 점유율</td><td>유형 분석</td></tr>
+        <tr><td>▲/▼/—</td><td>순위 상승/하락/변동없음</td><td>키워드·항목 공통</td></tr>
+        <tr><td>FEDI</td><td>FEDIT의 AI 에이전트</td><td>채팅형 분석 도우미</td></tr>
+      </table>
+    </section>
+
+    <!-- B -->
+    <section class="card" id="sB">
+      <h2>부록 B. 대표 사용 시나리오</h2>
+      <ul>
+        <li><b>오늘 트렌드 빠르게 보기</b>: 실시간 아이템 → 인기 키워드(큰 흐름) → 트렌드 항목(대표 상품·단계)</li>
+        <li><b>상품 벤치마킹</b>: 상품 분석 → 필터 → 상세(속성·지표·유사) → 내 보드 저장</li>
+        <li><b>다음 시즌 색상 기획</b>: 색상 분석 → 전체 vs 자사/경쟁 비중 → 신규 주목 색상 진입 후보</li>
+        <li><b>브랜드 포지셔닝 진단</b>: 브랜드 선택 → 유형 분석(카테고리/핏/소재 편중) → 색상 분석 대조</li>
+        <li><b>쇼→리테일 검증</b>: 패션쇼 분석 인사이트 → 유형/색상 분석의 실제 데이터로 확산 확인</li>
+      </ul>
+    </section>
+
+    <!-- Review -->
+    <section class="card review" id="sR">
+      <h2>📮 리뷰가 필요한 항목 (확정 요청)</h2>
+      <ul>
+        <li>지수·트렌드 스코어는 <b>대외비</b>로 확정 → "종합 계산 값 + 미입점 시 빈값 가능" 수준까지만 노출 <i>(반영 완료)</i></li>
+        <li>유형 분석의 <code>전체 합계(7000)</code> 등 목업 수치 → 실데이터 표기 확정</li>
+        <li>브랜드 필터의 <code>즐겨찾기(준비중)</code> 오픈 일정</li>
+      </ul>
+    </section>
+
+  </main>
+</div>
+
+<footer>© 2025 FEDIT. 사용자 가이드 (일차안) · 데이터로 분석하는 패션 트렌드의 새로운 기준</footer>
+
+<script>
+  // 스크롤 시 목차 활성 항목 하이라이트
+  const links = [...document.querySelectorAll('.toc a')];
+  const map = new Map(links.map(a => [a.getAttribute('href').slice(1), a]));
+  const obs = new IntersectionObserver((entries)=>{
+    entries.forEach(e=>{
+      if(e.isIntersecting){
+        links.forEach(l=>l.classList.remove('active'));
+        const a = map.get(e.target.id);
+        if(a) a.classList.add('active');
+      }
+    });
+  },{rootMargin:'-20% 0px -70% 0px',threshold:0});
+  document.querySelectorAll('section.card').forEach(s=>obs.observe(s));
+</script>
+</body>
+</html>
