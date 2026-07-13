@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-09T16:42:36+09:00",
+  "updatedAt": "2026-07-13T09:27:31+09:00",
   "unit": "month",
   "months": 36,
-  "youtubeAvailable": false,
+  "youtubeAvailable": true,
   "pinterestCountry": "KR",
-  "pinterestAvailableCount": 17,
+  "pinterestAvailableCount": 19,
   "keywords": [
     {
       "keyword": "샌들",
@@ -38,6 +38,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-09T16:42:36+09:00"
+    },
+    {
+      "keyword": "코즈넉",
+      "naverLatest": 78,
+      "naverMomPct": 154.1,
+      "naverYoyPct": 25,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-13T09:27:31+09:00"
     },
     {
       "keyword": "루에브르",
@@ -95,6 +106,17 @@
       "updatedAt": "2026-07-09T16:42:36+09:00"
     },
     {
+      "keyword": "카드지갑",
+      "naverLatest": 9.1,
+      "naverMomPct": -50,
+      "naverYoyPct": 0,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 74,
+      "pinterestYoyPct": -8.6,
+      "updatedAt": "2026-07-13T09:27:31+09:00"
+    },
+    {
       "keyword": "타라바이모션",
       "naverLatest": 49.5,
       "naverMomPct": 9.5,
@@ -137,6 +159,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-09T16:42:36+09:00"
+    },
+    {
+      "keyword": "링서울",
+      "naverLatest": 28.5,
+      "naverMomPct": 14.5,
+      "naverYoyPct": -37.8,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-13T09:27:31+09:00"
     },
     {
       "keyword": "긴팔티",
@@ -258,6 +291,17 @@
       "pinterestLatest": 86,
       "pinterestYoyPct": 10.3,
       "updatedAt": "2026-07-09T16:42:36+09:00"
+    },
+    {
+      "keyword": "래쉬가드",
+      "naverLatest": 8.4,
+      "naverMomPct": 223.1,
+      "naverYoyPct": -56.5,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 69,
+      "pinterestYoyPct": -23.3,
+      "updatedAt": "2026-07-13T09:27:31+09:00"
     },
     {
       "keyword": "비키니",
@@ -587,7 +631,18 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-09T16:42:36+09:00"
+      "updatedAt": "2026-07-13T09:27:31+09:00"
+    },
+    {
+      "keyword": "우양산",
+      "naverLatest": 50,
+      "naverMomPct": -50,
+      "naverYoyPct": null,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-13T09:27:31+09:00"
     }
   ]
 }
