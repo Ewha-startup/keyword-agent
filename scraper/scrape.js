@@ -165,30 +165,38 @@ async function scrapeWconcept() {
 }
 
 async function scrapeNaver() {
-  const day = ymdOffset(-1); // 당일 데이터는 미집계 → 전일 기준
-  const body = new URLSearchParams({
-    cid: '50000000', // 패션의류
-    timeUnit: 'date',
-    startDate: day,
-    endDate: day,
-    age: '', gender: '', device: '', page: '1', count: '20',
-  }).toString();
-  const j = await fetchJson(
-    'https://datalab.naver.com/shoppingInsight/getCategoryKeywordRank.naver',
-    {
-      method: 'POST',
-      headers: {
-        'User-Agent': UA,
-        Referer: 'https://datalab.naver.com/shoppingInsight/sCategory.naver',
-        'X-Requested-With': 'XMLHttpRequest',
-        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-      },
-      body,
+  // 네이버 일간 집계가 1~3일 지연될 수 있음(2026-07 확인: 전일은 빈값, 2일 전부터 존재)
+  // → 어제부터 최대 4일 거슬러 올라가며 데이터가 있는 첫 날짜를 쓴다
+  let lastError = null;
+  for (let off = 1; off <= 4; off++) {
+    const day = ymdOffset(-off);
+    const body = new URLSearchParams({
+      cid: '50000000', // 패션의류
+      timeUnit: 'date',
+      startDate: day,
+      endDate: day,
+      age: '', gender: '', device: '', page: '1', count: '20',
+    }).toString();
+    const j = await fetchJson(
+      'https://datalab.naver.com/shoppingInsight/getCategoryKeywordRank.naver',
+      {
+        method: 'POST',
+        headers: {
+          'User-Agent': UA,
+          Referer: 'https://datalab.naver.com/shoppingInsight/sCategory.naver',
+          'X-Requested-With': 'XMLHttpRequest',
+          'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        },
+        body,
+      }
+    );
+    if (j.ranks && j.ranks.length) {
+      const items = j.ranks.slice(0, 10).map((x) => ({ rank: x.rank, keyword: x.keyword, change: null }));
+      return { items, sourceUpdatedAt: j.range || null, dataDate: day };
     }
-  );
-  if (!j.ranks || !j.ranks.length) throw new Error('네이버 랭킹 비어있음');
-  const items = j.ranks.slice(0, 10).map((x) => ({ rank: x.rank, keyword: x.keyword, change: null }));
-  return { items, sourceUpdatedAt: j.range || null, dataDate: day };
+    lastError = new Error(`네이버 랭킹 비어있음 (${day})`);
+  }
+  throw lastError;
 }
 
 const SOURCES = [
