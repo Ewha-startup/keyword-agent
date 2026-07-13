@@ -1442,5 +1442,287 @@
         "dataDate": "2026-07-13"
       }
     ]
+  },
+  "2026-07-14": {
+    "date": "2026-07-14",
+    "collectedAt": "2026-07-14T08:30:04+09:00",
+    "sources": [
+      {
+        "id": "naver",
+        "name": "네이버",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "원피스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "여름원피스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "블라우스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "시슬리원피스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "티셔츠",
+            "change": 3,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "플리츠원피스",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 7,
+            "keyword": "에고이스트원피스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "여름가디건",
+            "change": null,
+            "isNew": true
+          },
+          {
+            "rank": 9,
+            "keyword": "여성반바지",
+            "change": null,
+            "isNew": true
+          },
+          {
+            "rank": 10,
+            "keyword": "잇미샤원피스",
+            "change": 0,
+            "isNew": false
+          }
+        ],
+        "sourceUpdatedAt": "2026.07.12. ~ 2026.07.12.",
+        "dataDate": "2026-07-12"
+      },
+      {
+        "id": "musinsa",
+        "name": "무신사",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "반팔",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "반바지",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "샌들",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "아디다스",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "가방",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "버뮤다팬츠",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 7,
+            "keyword": "모자",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "백팩",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 9,
+            "keyword": "쪼리",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 10,
+            "keyword": "원피스",
+            "change": 0,
+            "isNew": false
+          }
+        ],
+        "sourceUpdatedAt": null,
+        "dataDate": "2026-07-14"
+      },
+      {
+        "id": "wconcept",
+        "name": "W컨셉",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "원피스",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "수영복",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "샌들",
+            "change": 4,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "반팔",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "가방",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "블라우스",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 7,
+            "keyword": "숏팬츠",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "스커트",
+            "change": 4,
+            "isNew": false
+          },
+          {
+            "rank": 9,
+            "keyword": "슬리브리스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 10,
+            "keyword": "여름하의",
+            "change": 0,
+            "isNew": false
+          }
+        ],
+        "sourceUpdatedAt": "07.14 08:00",
+        "dataDate": "2026-07-14"
+      },
+      {
+        "id": "29cm",
+        "name": "29cm",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "유라고",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "수영복",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "샌들",
+            "change": 2,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "에코백",
+            "change": 3,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "블라우스",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "원피스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 7,
+            "keyword": "쪼리",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "시야쥬",
+            "change": null,
+            "isNew": true
+          },
+          {
+            "rank": 9,
+            "keyword": "양산",
+            "change": null,
+            "isNew": true
+          },
+          {
+            "rank": 10,
+            "keyword": "모자",
+            "change": null,
+            "isNew": true
+          }
+        ],
+        "sourceUpdatedAt": "2026-07-14T07:00:00.000000+09:00",
+        "dataDate": "2026-07-14"
+      }
+    ]
   }
 }
