@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T08:30:04+09:00",
+  "updatedAt": "2026-07-21T08:30:04+09:00",
   "unit": "month",
   "keywords": {
     "원피스": {
@@ -12890,7 +12890,7 @@
         "available": false,
         "reason": "disabled"
       },
-      "updatedAt": "2026-07-20T08:30:04+09:00",
+      "updatedAt": "2026-07-21T08:30:04+09:00",
       "pinterest": {
         "source": "pinterest",
         "country": "KR",
@@ -13997,281 +13997,281 @@
         "available": true,
         "points": [
           {
-            "period": "2025-07-10",
-            "value": 90,
+            "period": "2025-07-16",
+            "value": 86,
             "change": null
           },
           {
-            "period": "2025-07-17",
-            "value": 85,
-            "change": -5.6
+            "period": "2025-07-23",
+            "value": 96,
+            "change": 11.6
           },
           {
-            "period": "2025-07-24",
+            "period": "2025-07-30",
             "value": 100,
-            "change": 17.6
+            "change": 4.2
           },
           {
-            "period": "2025-07-31",
-            "value": 94,
-            "change": -6
+            "period": "2025-08-06",
+            "value": 84,
+            "change": -16
           },
           {
-            "period": "2025-08-07",
-            "value": 78,
-            "change": -17
+            "period": "2025-08-13",
+            "value": 63,
+            "change": -25
           },
           {
-            "period": "2025-08-14",
-            "value": 62,
-            "change": -20.5
+            "period": "2025-08-20",
+            "value": 54,
+            "change": -14.3
           },
           {
-            "period": "2025-08-21",
-            "value": 53,
-            "change": -14.5
+            "period": "2025-08-27",
+            "value": 50,
+            "change": -7.4
           },
           {
-            "period": "2025-08-28",
-            "value": 47,
-            "change": -11.3
+            "period": "2025-09-03",
+            "value": 31,
+            "change": -38
           },
           {
-            "period": "2025-09-04",
-            "value": 30,
-            "change": -36.2
-          },
-          {
-            "period": "2025-09-11",
+            "period": "2025-09-10",
             "value": 18,
-            "change": -40
+            "change": -41.9
           },
           {
-            "period": "2025-09-18",
-            "value": 20,
-            "change": 11.1
+            "period": "2025-09-17",
+            "value": 22,
+            "change": 22.2
           },
           {
-            "period": "2025-09-25",
-            "value": 21,
-            "change": 5
+            "period": "2025-09-24",
+            "value": 19,
+            "change": -13.6
           },
           {
-            "period": "2025-10-02",
-            "value": 12,
-            "change": -42.9
-          },
-          {
-            "period": "2025-10-09",
+            "period": "2025-10-01",
             "value": 15,
-            "change": 25
+            "change": -21.1
           },
           {
-            "period": "2025-10-16",
-            "value": 16,
-            "change": 6.7
-          },
-          {
-            "period": "2025-10-23",
+            "period": "2025-10-08",
             "value": 14,
-            "change": -12.5
+            "change": -6.7
           },
           {
-            "period": "2025-10-30",
+            "period": "2025-10-15",
             "value": 16,
             "change": 14.3
           },
           {
-            "period": "2025-11-06",
+            "period": "2025-10-22",
+            "value": 15,
+            "change": -6.2
+          },
+          {
+            "period": "2025-10-29",
             "value": 14,
-            "change": -12.5
+            "change": -6.7
           },
           {
-            "period": "2025-11-13",
-            "value": 10,
-            "change": -28.6
+            "period": "2025-11-05",
+            "value": 13,
+            "change": -7.1
           },
           {
-            "period": "2025-11-20",
+            "period": "2025-11-12",
             "value": 11,
-            "change": 10
+            "change": -15.4
           },
           {
-            "period": "2025-11-27",
+            "period": "2025-11-19",
+            "value": 11,
+            "change": 0
+          },
+          {
+            "period": "2025-11-26",
             "value": 16,
             "change": 45.5
           },
           {
-            "period": "2025-12-04",
-            "value": 17,
-            "change": 6.3
-          },
-          {
-            "period": "2025-12-11",
-            "value": 22,
-            "change": 29.4
-          },
-          {
-            "period": "2025-12-18",
-            "value": 17,
-            "change": -22.7
-          },
-          {
-            "period": "2025-12-25",
+            "period": "2025-12-03",
             "value": 15,
-            "change": -11.8
+            "change": -6.2
           },
           {
-            "period": "2026-01-01",
-            "value": 16,
-            "change": 6.7
-          },
-          {
-            "period": "2026-01-08",
+            "period": "2025-12-10",
             "value": 20,
-            "change": 25
+            "change": 33.3
           },
           {
-            "period": "2026-01-15",
-            "value": 23,
-            "change": 15
+            "period": "2025-12-17",
+            "value": 17,
+            "change": -15
           },
           {
-            "period": "2026-01-22",
+            "period": "2025-12-24",
+            "value": 19,
+            "change": 11.8
+          },
+          {
+            "period": "2025-12-31",
+            "value": 15,
+            "change": -21.1
+          },
+          {
+            "period": "2026-01-07",
             "value": 21,
-            "change": -8.7
+            "change": 40
           },
           {
-            "period": "2026-01-29",
+            "period": "2026-01-14",
             "value": 22,
             "change": 4.8
           },
           {
-            "period": "2026-02-05",
-            "value": 24,
-            "change": 9.1
-          },
-          {
-            "period": "2026-02-12",
-            "value": 26,
-            "change": 8.3
-          },
-          {
-            "period": "2026-02-19",
-            "value": 20,
-            "change": -23.1
-          },
-          {
-            "period": "2026-02-26",
-            "value": 20,
+            "period": "2026-01-21",
+            "value": 22,
             "change": 0
           },
           {
-            "period": "2026-03-05",
-            "value": 27,
-            "change": 35
+            "period": "2026-01-28",
+            "value": 22,
+            "change": 0
           },
           {
-            "period": "2026-03-12",
-            "value": 24,
-            "change": -11.1
-          },
-          {
-            "period": "2026-03-19",
-            "value": 20,
-            "change": -16.7
-          },
-          {
-            "period": "2026-03-26",
-            "value": 21,
-            "change": 5
-          },
-          {
-            "period": "2026-04-02",
+            "period": "2026-02-04",
             "value": 23,
-            "change": 9.5
+            "change": 4.5
           },
           {
-            "period": "2026-04-09",
+            "period": "2026-02-11",
+            "value": 25,
+            "change": 8.7
+          },
+          {
+            "period": "2026-02-18",
+            "value": 21,
+            "change": -16
+          },
+          {
+            "period": "2026-02-25",
+            "value": 19,
+            "change": -9.5
+          },
+          {
+            "period": "2026-03-04",
+            "value": 28,
+            "change": 47.4
+          },
+          {
+            "period": "2026-03-11",
+            "value": 24,
+            "change": -14.3
+          },
+          {
+            "period": "2026-03-18",
+            "value": 21,
+            "change": -12.5
+          },
+          {
+            "period": "2026-03-25",
+            "value": 21,
+            "change": 0
+          },
+          {
+            "period": "2026-04-01",
+            "value": 21,
+            "change": 0
+          },
+          {
+            "period": "2026-04-08",
             "value": 26,
-            "change": 13
+            "change": 23.8
           },
           {
-            "period": "2026-04-16",
+            "period": "2026-04-15",
             "value": 26,
             "change": 0
           },
           {
-            "period": "2026-04-23",
+            "period": "2026-04-22",
             "value": 31,
             "change": 19.2
           },
           {
-            "period": "2026-04-30",
+            "period": "2026-04-29",
             "value": 33,
             "change": 6.5
           },
           {
-            "period": "2026-05-07",
+            "period": "2026-05-06",
             "value": 29,
             "change": -12.1
           },
           {
-            "period": "2026-05-14",
+            "period": "2026-05-13",
             "value": 36,
             "change": 24.1
           },
           {
-            "period": "2026-05-21",
-            "value": 35,
-            "change": -2.8
+            "period": "2026-05-20",
+            "value": 33,
+            "change": -8.3
           },
           {
-            "period": "2026-05-28",
+            "period": "2026-05-27",
             "value": 38,
-            "change": 8.6
+            "change": 15.2
           },
           {
-            "period": "2026-06-04",
-            "value": 43,
-            "change": 13.2
-          },
-          {
-            "period": "2026-06-11",
-            "value": 52,
-            "change": 20.9
-          },
-          {
-            "period": "2026-06-18",
-            "value": 50,
-            "change": -3.8
-          },
-          {
-            "period": "2026-06-25",
-            "value": 57,
-            "change": 14
-          },
-          {
-            "period": "2026-07-02",
-            "value": 60,
+            "period": "2026-06-03",
+            "value": 40,
             "change": 5.3
           },
           {
-            "period": "2026-07-09",
-            "value": 69,
-            "change": 15
+            "period": "2026-06-10",
+            "value": 52,
+            "change": 30
+          },
+          {
+            "period": "2026-06-17",
+            "value": 51,
+            "change": -1.9
+          },
+          {
+            "period": "2026-06-24",
+            "value": 55,
+            "change": 7.8
+          },
+          {
+            "period": "2026-07-01",
+            "value": 62,
+            "change": 12.7
+          },
+          {
+            "period": "2026-07-08",
+            "value": 70,
+            "change": 12.9
+          },
+          {
+            "period": "2026-07-15",
+            "value": 74,
+            "change": 5.7
           }
         ],
         "raw_growth": {
-          "mom_change": 0.4,
-          "wow_change": 0.1,
-          "yoy_change": null
+          "wow_change": 0.05,
+          "yoy_change": null,
+          "mom_change": 0.4
         },
-        "latest": 69,
-        "momPct": 15,
-        "yoyPct": -23.3
+        "latest": 74,
+        "momPct": 5.7,
+        "yoyPct": -14
       },
-      "updatedAt": "2026-07-13T09:27:31+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "우양산": {
       "keyword": "우양산",
@@ -14319,7 +14319,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-13T09:27:31+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "카드지갑": {
       "keyword": "카드지갑",
@@ -14451,281 +14451,281 @@
         "available": true,
         "points": [
           {
-            "period": "2025-07-10",
-            "value": 81,
+            "period": "2025-07-16",
+            "value": 100,
             "change": null
           },
           {
-            "period": "2025-07-17",
-            "value": 100,
-            "change": 23.5
+            "period": "2025-07-23",
+            "value": 91,
+            "change": -9
           },
           {
-            "period": "2025-07-24",
-            "value": 97,
-            "change": -3
+            "period": "2025-07-30",
+            "value": 81,
+            "change": -11
           },
           {
-            "period": "2025-07-31",
-            "value": 74,
-            "change": -23.7
+            "period": "2025-08-06",
+            "value": 88,
+            "change": 8.6
           },
           {
-            "period": "2025-08-07",
+            "period": "2025-08-13",
+            "value": 81,
+            "change": -8
+          },
+          {
+            "period": "2025-08-20",
             "value": 90,
-            "change": 21.6
+            "change": 11.1
           },
           {
-            "period": "2025-08-14",
-            "value": 86,
-            "change": -4.4
+            "period": "2025-08-27",
+            "value": 92,
+            "change": 2.2
           },
           {
-            "period": "2025-08-21",
-            "value": 93,
-            "change": 8.1
+            "period": "2025-09-03",
+            "value": 84,
+            "change": -8.7
           },
           {
-            "period": "2025-08-28",
-            "value": 90,
-            "change": -3.2
+            "period": "2025-09-10",
+            "value": 75,
+            "change": -10.7
           },
           {
-            "period": "2025-09-04",
-            "value": 83,
-            "change": -7.8
-          },
-          {
-            "period": "2025-09-11",
-            "value": 78,
-            "change": -6
-          },
-          {
-            "period": "2025-09-18",
+            "period": "2025-09-17",
             "value": 87,
-            "change": 11.5
+            "change": 16
           },
           {
-            "period": "2025-09-25",
+            "period": "2025-09-24",
             "value": 79,
             "change": -9.2
           },
           {
-            "period": "2025-10-02",
-            "value": 84,
-            "change": 6.3
-          },
-          {
-            "period": "2025-10-09",
-            "value": 76,
-            "change": -9.5
-          },
-          {
-            "period": "2025-10-16",
-            "value": 77,
+            "period": "2025-10-01",
+            "value": 80,
             "change": 1.3
           },
           {
-            "period": "2025-10-23",
+            "period": "2025-10-08",
             "value": 75,
-            "change": -2.6
+            "change": -6.2
           },
           {
-            "period": "2025-10-30",
+            "period": "2025-10-15",
+            "value": 74,
+            "change": -1.3
+          },
+          {
+            "period": "2025-10-22",
+            "value": 78,
+            "change": 5.4
+          },
+          {
+            "period": "2025-10-29",
+            "value": 81,
+            "change": 3.8
+          },
+          {
+            "period": "2025-11-05",
+            "value": 88,
+            "change": 8.6
+          },
+          {
+            "period": "2025-11-12",
+            "value": 69,
+            "change": -21.6
+          },
+          {
+            "period": "2025-11-19",
+            "value": 69,
+            "change": 0
+          },
+          {
+            "period": "2025-11-26",
+            "value": 74,
+            "change": 7.2
+          },
+          {
+            "period": "2025-12-03",
+            "value": 79,
+            "change": 6.8
+          },
+          {
+            "period": "2025-12-10",
+            "value": 68,
+            "change": -13.9
+          },
+          {
+            "period": "2025-12-17",
             "value": 86,
-            "change": 14.7
+            "change": 26.5
           },
           {
-            "period": "2025-11-06",
+            "period": "2025-12-24",
+            "value": 85,
+            "change": -1.2
+          },
+          {
+            "period": "2025-12-31",
+            "value": 72,
+            "change": -15.3
+          },
+          {
+            "period": "2026-01-07",
+            "value": 87,
+            "change": 20.8
+          },
+          {
+            "period": "2026-01-14",
+            "value": 94,
+            "change": 8
+          },
+          {
+            "period": "2026-01-21",
+            "value": 84,
+            "change": -10.6
+          },
+          {
+            "period": "2026-01-28",
+            "value": 87,
+            "change": 3.6
+          },
+          {
+            "period": "2026-02-04",
+            "value": 90,
+            "change": 3.4
+          },
+          {
+            "period": "2026-02-11",
+            "value": 94,
+            "change": 4.4
+          },
+          {
+            "period": "2026-02-18",
+            "value": 91,
+            "change": -3.2
+          },
+          {
+            "period": "2026-02-25",
             "value": 89,
-            "change": 3.5
+            "change": -2.2
           },
           {
-            "period": "2025-11-13",
+            "period": "2026-03-04",
+            "value": 96,
+            "change": 7.9
+          },
+          {
+            "period": "2026-03-11",
+            "value": 89,
+            "change": -7.3
+          },
+          {
+            "period": "2026-03-18",
+            "value": 99,
+            "change": 11.2
+          },
+          {
+            "period": "2026-03-25",
+            "value": 91,
+            "change": -8.1
+          },
+          {
+            "period": "2026-04-01",
+            "value": 86,
+            "change": -5.5
+          },
+          {
+            "period": "2026-04-08",
+            "value": 87,
+            "change": 1.2
+          },
+          {
+            "period": "2026-04-15",
+            "value": 91,
+            "change": 4.6
+          },
+          {
+            "period": "2026-04-22",
+            "value": 82,
+            "change": -9.9
+          },
+          {
+            "period": "2026-04-29",
+            "value": 89,
+            "change": 8.5
+          },
+          {
+            "period": "2026-05-06",
+            "value": 69,
+            "change": -22.5
+          },
+          {
+            "period": "2026-05-13",
+            "value": 75,
+            "change": 8.7
+          },
+          {
+            "period": "2026-05-20",
+            "value": 73,
+            "change": -2.7
+          },
+          {
+            "period": "2026-05-27",
+            "value": 82,
+            "change": 12.3
+          },
+          {
+            "period": "2026-06-03",
+            "value": 68,
+            "change": -17.1
+          },
+          {
+            "period": "2026-06-10",
+            "value": 75,
+            "change": 10.3
+          },
+          {
+            "period": "2026-06-17",
+            "value": 63,
+            "change": -16
+          },
+          {
+            "period": "2026-06-24",
             "value": 67,
-            "change": -24.7
+            "change": 6.3
           },
           {
-            "period": "2025-11-20",
+            "period": "2026-07-01",
             "value": 72,
             "change": 7.5
           },
           {
-            "period": "2025-11-27",
-            "value": 77,
-            "change": 6.9
-          },
-          {
-            "period": "2025-12-04",
-            "value": 79,
-            "change": 2.6
-          },
-          {
-            "period": "2025-12-11",
-            "value": 75,
-            "change": -5.1
-          },
-          {
-            "period": "2025-12-18",
-            "value": 88,
-            "change": 17.3
-          },
-          {
-            "period": "2025-12-25",
-            "value": 79,
-            "change": -10.2
-          },
-          {
-            "period": "2026-01-01",
-            "value": 75,
-            "change": -5.1
-          },
-          {
-            "period": "2026-01-08",
-            "value": 92,
-            "change": 22.7
-          },
-          {
-            "period": "2026-01-15",
-            "value": 97,
-            "change": 5.4
-          },
-          {
-            "period": "2026-01-22",
+            "period": "2026-07-08",
             "value": 84,
-            "change": -13.4
+            "change": 16.7
           },
           {
-            "period": "2026-01-29",
-            "value": 93,
-            "change": 10.7
-          },
-          {
-            "period": "2026-02-05",
-            "value": 89,
-            "change": -4.3
-          },
-          {
-            "period": "2026-02-12",
-            "value": 97,
-            "change": 9
-          },
-          {
-            "period": "2026-02-19",
-            "value": 90,
-            "change": -7.2
-          },
-          {
-            "period": "2026-02-26",
-            "value": 95,
-            "change": 5.6
-          },
-          {
-            "period": "2026-03-05",
-            "value": 92,
-            "change": -3.2
-          },
-          {
-            "period": "2026-03-12",
-            "value": 93,
-            "change": 1.1
-          },
-          {
-            "period": "2026-03-19",
-            "value": 98,
-            "change": 5.4
-          },
-          {
-            "period": "2026-03-26",
-            "value": 92,
-            "change": -6.1
-          },
-          {
-            "period": "2026-04-02",
-            "value": 89,
-            "change": -3.3
-          },
-          {
-            "period": "2026-04-09",
-            "value": 90,
-            "change": 1.1
-          },
-          {
-            "period": "2026-04-16",
-            "value": 90,
-            "change": 0
-          },
-          {
-            "period": "2026-04-23",
-            "value": 85,
-            "change": -5.6
-          },
-          {
-            "period": "2026-04-30",
-            "value": 87,
-            "change": 2.4
-          },
-          {
-            "period": "2026-05-07",
-            "value": 68,
-            "change": -21.8
-          },
-          {
-            "period": "2026-05-14",
+            "period": "2026-07-15",
             "value": 76,
-            "change": 11.8
-          },
-          {
-            "period": "2026-05-21",
-            "value": 79,
-            "change": 3.9
-          },
-          {
-            "period": "2026-05-28",
-            "value": 82,
-            "change": 3.8
-          },
-          {
-            "period": "2026-06-04",
-            "value": 67,
-            "change": -18.3
-          },
-          {
-            "period": "2026-06-11",
-            "value": 79,
-            "change": 17.9
-          },
-          {
-            "period": "2026-06-18",
-            "value": 60,
-            "change": -24.1
-          },
-          {
-            "period": "2026-06-25",
-            "value": 73,
-            "change": 21.7
-          },
-          {
-            "period": "2026-07-02",
-            "value": 79,
-            "change": 8.2
-          },
-          {
-            "period": "2026-07-09",
-            "value": 74,
-            "change": -6.3
+            "change": -9.5
           }
         ],
         "raw_growth": {
           "yoy_change": null,
-          "wow_change": -0.06,
-          "mom_change": -0.06
+          "mom_change": 0.03,
+          "wow_change": -0.09
         },
-        "latest": 74,
-        "momPct": -6.3,
-        "yoyPct": -8.6
+        "latest": 76,
+        "momPct": -9.5,
+        "yoyPct": -24
       },
-      "updatedAt": "2026-07-13T09:27:31+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "링서울": {
       "keyword": "링서울",
@@ -14933,7 +14933,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-13T09:27:31+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "코즈넉": {
       "keyword": "코즈넉",
@@ -15141,7 +15141,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-13T09:27:31+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "시슬리원피스": {
       "keyword": "시슬리원피스",
@@ -15349,7 +15349,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "여름블라우스": {
       "keyword": "여름블라우스",
@@ -15557,7 +15557,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "에고이스트원피스": {
       "keyword": "에고이스트원피스",
@@ -15765,7 +15765,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "베네통원피스": {
       "keyword": "베네통원피스",
@@ -15973,7 +15973,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "스카시니트": {
       "keyword": "스카시니트",
@@ -16181,7 +16181,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "스커트": {
       "keyword": "스커트",
@@ -16388,281 +16388,281 @@
         "available": true,
         "points": [
           {
-            "period": "2025-07-11",
-            "value": 96,
+            "period": "2025-07-16",
+            "value": 79,
             "change": null
           },
           {
-            "period": "2025-07-18",
-            "value": 79,
-            "change": -17.7
+            "period": "2025-07-23",
+            "value": 83,
+            "change": 5.1
           },
           {
-            "period": "2025-07-25",
-            "value": 85,
-            "change": 7.6
+            "period": "2025-07-30",
+            "value": 86,
+            "change": 3.6
           },
           {
-            "period": "2025-08-01",
+            "period": "2025-08-06",
             "value": 90,
-            "change": 5.9
+            "change": 4.7
           },
           {
-            "period": "2025-08-08",
-            "value": 87,
-            "change": -3.3
+            "period": "2025-08-13",
+            "value": 83,
+            "change": -7.8
           },
           {
-            "period": "2025-08-15",
-            "value": 88,
-            "change": 1.1
+            "period": "2025-08-20",
+            "value": 86,
+            "change": 3.6
           },
           {
-            "period": "2025-08-22",
+            "period": "2025-08-27",
             "value": 90,
-            "change": 2.3
+            "change": 4.7
           },
           {
-            "period": "2025-08-29",
-            "value": 93,
-            "change": 3.3
-          },
-          {
-            "period": "2025-09-05",
+            "period": "2025-09-03",
             "value": 100,
-            "change": 7.5
+            "change": 11.1
           },
           {
-            "period": "2025-09-12",
+            "period": "2025-09-10",
             "value": 91,
             "change": -9
           },
           {
-            "period": "2025-09-19",
-            "value": 92,
-            "change": 1.1
+            "period": "2025-09-17",
+            "value": 86,
+            "change": -5.5
           },
           {
-            "period": "2025-09-26",
+            "period": "2025-09-24",
             "value": 90,
-            "change": -2.2
+            "change": 4.7
           },
           {
-            "period": "2025-10-03",
+            "period": "2025-10-01",
+            "value": 90,
+            "change": 0
+          },
+          {
+            "period": "2025-10-08",
+            "value": 70,
+            "change": -22.2
+          },
+          {
+            "period": "2025-10-15",
+            "value": 78,
+            "change": 11.4
+          },
+          {
+            "period": "2025-10-22",
             "value": 87,
-            "change": -3.3
+            "change": 11.5
           },
           {
-            "period": "2025-10-10",
-            "value": 74,
-            "change": -14.9
-          },
-          {
-            "period": "2025-10-17",
-            "value": 83,
-            "change": 12.2
-          },
-          {
-            "period": "2025-10-24",
-            "value": 85,
-            "change": 2.4
-          },
-          {
-            "period": "2025-10-31",
+            "period": "2025-10-29",
             "value": 79,
-            "change": -7.1
+            "change": -9.2
           },
           {
-            "period": "2025-11-07",
-            "value": 77,
-            "change": -2.5
-          },
-          {
-            "period": "2025-11-14",
-            "value": 79,
-            "change": 2.6
-          },
-          {
-            "period": "2025-11-21",
+            "period": "2025-11-05",
             "value": 75,
             "change": -5.1
           },
           {
-            "period": "2025-11-28",
-            "value": 77,
-            "change": 2.7
-          },
-          {
-            "period": "2025-12-05",
-            "value": 79,
-            "change": 2.6
-          },
-          {
-            "period": "2025-12-12",
-            "value": 83,
-            "change": 5.1
-          },
-          {
-            "period": "2025-12-19",
-            "value": 77,
-            "change": -7.2
-          },
-          {
-            "period": "2025-12-26",
-            "value": 67,
-            "change": -13
-          },
-          {
-            "period": "2026-01-02",
-            "value": 59,
-            "change": -11.9
-          },
-          {
-            "period": "2026-01-09",
-            "value": 64,
-            "change": 8.5
-          },
-          {
-            "period": "2026-01-16",
-            "value": 63,
-            "change": -1.6
-          },
-          {
-            "period": "2026-01-23",
-            "value": 58,
-            "change": -7.9
-          },
-          {
-            "period": "2026-01-30",
-            "value": 61,
-            "change": 5.2
-          },
-          {
-            "period": "2026-02-06",
-            "value": 63,
-            "change": 3.3
-          },
-          {
-            "period": "2026-02-13",
-            "value": 61,
-            "change": -3.2
-          },
-          {
-            "period": "2026-02-20",
-            "value": 61,
+            "period": "2025-11-12",
+            "value": 75,
             "change": 0
           },
           {
-            "period": "2026-02-27",
-            "value": 63,
-            "change": 3.3
+            "period": "2025-11-19",
+            "value": 74,
+            "change": -1.3
           },
           {
-            "period": "2026-03-06",
-            "value": 73,
-            "change": 15.9
+            "period": "2025-11-26",
+            "value": 75,
+            "change": 1.4
           },
           {
-            "period": "2026-03-13",
-            "value": 84,
-            "change": 15.1
-          },
-          {
-            "period": "2026-03-20",
-            "value": 79,
-            "change": -6
-          },
-          {
-            "period": "2026-03-27",
-            "value": 83,
-            "change": 5.1
-          },
-          {
-            "period": "2026-04-03",
-            "value": 84,
-            "change": 1.2
-          },
-          {
-            "period": "2026-04-10",
-            "value": 86,
-            "change": 2.4
-          },
-          {
-            "period": "2026-04-17",
-            "value": 85,
-            "change": -1.2
-          },
-          {
-            "period": "2026-04-24",
-            "value": 77,
-            "change": -9.4
-          },
-          {
-            "period": "2026-05-01",
+            "period": "2025-12-03",
             "value": 78,
-            "change": 1.3
+            "change": 4
           },
           {
-            "period": "2026-05-08",
+            "period": "2025-12-10",
+            "value": 78,
+            "change": 0
+          },
+          {
+            "period": "2025-12-17",
             "value": 76,
             "change": -2.6
           },
           {
-            "period": "2026-05-15",
-            "value": 77,
-            "change": 1.3
+            "period": "2025-12-24",
+            "value": 71,
+            "change": -6.6
           },
           {
-            "period": "2026-05-22",
-            "value": 72,
-            "change": -6.5
+            "period": "2025-12-31",
+            "value": 57,
+            "change": -19.7
           },
           {
-            "period": "2026-05-29",
-            "value": 72,
+            "period": "2026-01-07",
+            "value": 63,
+            "change": 10.5
+          },
+          {
+            "period": "2026-01-14",
+            "value": 63,
             "change": 0
           },
           {
-            "period": "2026-06-05",
-            "value": 74,
-            "change": 2.8
+            "period": "2026-01-21",
+            "value": 59,
+            "change": -6.3
           },
           {
-            "period": "2026-06-12",
-            "value": 62,
-            "change": -16.2
-          },
-          {
-            "period": "2026-06-19",
-            "value": 58,
-            "change": -6.5
-          },
-          {
-            "period": "2026-06-26",
-            "value": 58,
-            "change": 0
-          },
-          {
-            "period": "2026-07-03",
-            "value": 56,
+            "period": "2026-01-28",
+            "value": 57,
             "change": -3.4
           },
           {
-            "period": "2026-07-10",
+            "period": "2026-02-04",
+            "value": 63,
+            "change": 10.5
+          },
+          {
+            "period": "2026-02-11",
+            "value": 61,
+            "change": -3.2
+          },
+          {
+            "period": "2026-02-18",
+            "value": 57,
+            "change": -6.6
+          },
+          {
+            "period": "2026-02-25",
+            "value": 62,
+            "change": 8.8
+          },
+          {
+            "period": "2026-03-04",
+            "value": 67,
+            "change": 8.1
+          },
+          {
+            "period": "2026-03-11",
+            "value": 81,
+            "change": 20.9
+          },
+          {
+            "period": "2026-03-18",
+            "value": 76,
+            "change": -6.2
+          },
+          {
+            "period": "2026-03-25",
+            "value": 80,
+            "change": 5.3
+          },
+          {
+            "period": "2026-04-01",
+            "value": 82,
+            "change": 2.5
+          },
+          {
+            "period": "2026-04-08",
+            "value": 85,
+            "change": 3.7
+          },
+          {
+            "period": "2026-04-15",
+            "value": 81,
+            "change": -4.7
+          },
+          {
+            "period": "2026-04-22",
+            "value": 79,
+            "change": -2.5
+          },
+          {
+            "period": "2026-04-29",
+            "value": 78,
+            "change": -1.3
+          },
+          {
+            "period": "2026-05-06",
+            "value": 70,
+            "change": -10.3
+          },
+          {
+            "period": "2026-05-13",
+            "value": 76,
+            "change": 8.6
+          },
+          {
+            "period": "2026-05-20",
+            "value": 72,
+            "change": -5.3
+          },
+          {
+            "period": "2026-05-27",
+            "value": 71,
+            "change": -1.4
+          },
+          {
+            "period": "2026-06-03",
+            "value": 69,
+            "change": -2.8
+          },
+          {
+            "period": "2026-06-10",
+            "value": 67,
+            "change": -2.9
+          },
+          {
+            "period": "2026-06-17",
+            "value": 55,
+            "change": -17.9
+          },
+          {
+            "period": "2026-06-24",
+            "value": 59,
+            "change": 7.3
+          },
+          {
+            "period": "2026-07-01",
+            "value": 54,
+            "change": -8.5
+          },
+          {
+            "period": "2026-07-08",
             "value": 53,
-            "change": -5.4
+            "change": -1.9
+          },
+          {
+            "period": "2026-07-15",
+            "value": 50,
+            "change": -5.7
           }
         ],
         "raw_growth": {
+          "yoy_change": null,
           "mom_change": -0.2,
-          "wow_change": -0.05,
-          "yoy_change": null
+          "wow_change": -0.05
         },
-        "latest": 53,
-        "momPct": -5.4,
-        "yoyPct": -44.8
+        "latest": 50,
+        "momPct": -5.7,
+        "yoyPct": -36.7
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "하객룩": {
       "keyword": "하객룩",
@@ -16869,281 +16869,281 @@
         "available": true,
         "points": [
           {
-            "period": "2025-07-11",
-            "value": 22,
+            "period": "2025-07-16",
+            "value": 21,
             "change": null
           },
           {
-            "period": "2025-07-18",
-            "value": 21,
-            "change": -4.5
+            "period": "2025-07-23",
+            "value": 23,
+            "change": 9.5
           },
           {
-            "period": "2025-07-25",
-            "value": 22,
-            "change": 4.8
+            "period": "2025-07-30",
+            "value": 18,
+            "change": -21.7
           },
           {
-            "period": "2025-08-01",
-            "value": 19,
-            "change": -13.6
+            "period": "2025-08-06",
+            "value": 29,
+            "change": 61.1
           },
           {
-            "period": "2025-08-08",
-            "value": 36,
-            "change": 89.5
+            "period": "2025-08-13",
+            "value": 37,
+            "change": 27.6
           },
           {
-            "period": "2025-08-15",
-            "value": 35,
-            "change": -2.8
-          },
-          {
-            "period": "2025-08-22",
-            "value": 50,
-            "change": 42.9
-          },
-          {
-            "period": "2025-08-29",
-            "value": 56,
-            "change": 12
-          },
-          {
-            "period": "2025-09-05",
-            "value": 79,
-            "change": 41.1
-          },
-          {
-            "period": "2025-09-12",
-            "value": 77,
-            "change": -2.5
-          },
-          {
-            "period": "2025-09-19",
-            "value": 82,
-            "change": 6.5
-          },
-          {
-            "period": "2025-09-26",
-            "value": 70,
-            "change": -14.6
-          },
-          {
-            "period": "2025-10-03",
-            "value": 51,
-            "change": -27.1
-          },
-          {
-            "period": "2025-10-10",
-            "value": 71,
-            "change": 39.2
-          },
-          {
-            "period": "2025-10-17",
-            "value": 94,
-            "change": 32.4
-          },
-          {
-            "period": "2025-10-24",
-            "value": 100,
-            "change": 6.4
-          },
-          {
-            "period": "2025-10-31",
-            "value": 84,
-            "change": -16
-          },
-          {
-            "period": "2025-11-07",
-            "value": 83,
-            "change": -1.2
-          },
-          {
-            "period": "2025-11-14",
-            "value": 68,
-            "change": -18.1
-          },
-          {
-            "period": "2025-11-21",
-            "value": 66,
-            "change": -2.9
-          },
-          {
-            "period": "2025-11-28",
-            "value": 56,
-            "change": -15.2
-          },
-          {
-            "period": "2025-12-05",
-            "value": 53,
-            "change": -5.4
-          },
-          {
-            "period": "2025-12-12",
-            "value": 60,
-            "change": 13.2
-          },
-          {
-            "period": "2025-12-19",
-            "value": 56,
-            "change": -6.7
-          },
-          {
-            "period": "2025-12-26",
-            "value": 47,
-            "change": -16.1
-          },
-          {
-            "period": "2026-01-02",
+            "period": "2025-08-20",
             "value": 45,
-            "change": -4.3
+            "change": 21.6
           },
           {
-            "period": "2026-01-09",
+            "period": "2025-08-27",
             "value": 54,
             "change": 20
           },
           {
-            "period": "2026-01-16",
-            "value": 59,
-            "change": 9.3
-          },
-          {
-            "period": "2026-01-23",
-            "value": 66,
-            "change": 11.9
-          },
-          {
-            "period": "2026-01-30",
-            "value": 54,
-            "change": -18.2
-          },
-          {
-            "period": "2026-02-06",
-            "value": 57,
-            "change": 5.6
-          },
-          {
-            "period": "2026-02-13",
-            "value": 47,
-            "change": -17.5
-          },
-          {
-            "period": "2026-02-20",
-            "value": 83,
-            "change": 76.6
-          },
-          {
-            "period": "2026-02-27",
-            "value": 78,
-            "change": -6
-          },
-          {
-            "period": "2026-03-06",
-            "value": 94,
-            "change": 20.5
-          },
-          {
-            "period": "2026-03-13",
-            "value": 95,
-            "change": 1.1
-          },
-          {
-            "period": "2026-03-20",
-            "value": 91,
-            "change": -4.2
-          },
-          {
-            "period": "2026-03-27",
-            "value": 84,
-            "change": -7.7
-          },
-          {
-            "period": "2026-04-03",
-            "value": 75,
-            "change": -10.7
-          },
-          {
-            "period": "2026-04-10",
-            "value": 81,
-            "change": 8
-          },
-          {
-            "period": "2026-04-17",
-            "value": 91,
-            "change": 12.3
-          },
-          {
-            "period": "2026-04-24",
-            "value": 84,
-            "change": -7.7
-          },
-          {
-            "period": "2026-05-01",
-            "value": 73,
-            "change": -13.1
-          },
-          {
-            "period": "2026-05-08",
-            "value": 78,
-            "change": 6.8
-          },
-          {
-            "period": "2026-05-15",
-            "value": 83,
-            "change": 6.4
-          },
-          {
-            "period": "2026-05-22",
+            "period": "2025-09-03",
             "value": 65,
-            "change": -21.7
+            "change": 20.4
           },
           {
-            "period": "2026-05-29",
+            "period": "2025-09-10",
+            "value": 83,
+            "change": 27.7
+          },
+          {
+            "period": "2025-09-17",
+            "value": 82,
+            "change": -1.2
+          },
+          {
+            "period": "2025-09-24",
+            "value": 73,
+            "change": -11
+          },
+          {
+            "period": "2025-10-01",
+            "value": 60,
+            "change": -17.8
+          },
+          {
+            "period": "2025-10-08",
             "value": 59,
-            "change": -9.2
+            "change": -1.7
           },
           {
-            "period": "2026-06-05",
+            "period": "2025-10-15",
+            "value": 88,
+            "change": 49.2
+          },
+          {
+            "period": "2025-10-22",
+            "value": 100,
+            "change": 13.6
+          },
+          {
+            "period": "2025-10-29",
+            "value": 89,
+            "change": -11
+          },
+          {
+            "period": "2025-11-05",
+            "value": 82,
+            "change": -7.9
+          },
+          {
+            "period": "2025-11-12",
+            "value": 71,
+            "change": -13.4
+          },
+          {
+            "period": "2025-11-19",
+            "value": 67,
+            "change": -5.6
+          },
+          {
+            "period": "2025-11-26",
+            "value": 59,
+            "change": -11.9
+          },
+          {
+            "period": "2025-12-03",
             "value": 52,
             "change": -11.9
           },
           {
-            "period": "2026-06-12",
+            "period": "2025-12-10",
+            "value": 59,
+            "change": 13.5
+          },
+          {
+            "period": "2025-12-17",
+            "value": 57,
+            "change": -3.4
+          },
+          {
+            "period": "2025-12-24",
+            "value": 50,
+            "change": -12.3
+          },
+          {
+            "period": "2025-12-31",
+            "value": 45,
+            "change": -10
+          },
+          {
+            "period": "2026-01-07",
             "value": 51,
-            "change": -1.9
+            "change": 13.3
           },
           {
-            "period": "2026-06-19",
-            "value": 44,
-            "change": -13.7
+            "period": "2026-01-14",
+            "value": 57,
+            "change": 11.8
           },
           {
-            "period": "2026-06-26",
-            "value": 37,
-            "change": -15.9
+            "period": "2026-01-21",
+            "value": 69,
+            "change": 21.1
           },
           {
-            "period": "2026-07-03",
-            "value": 35,
+            "period": "2026-01-28",
+            "value": 53,
+            "change": -23.2
+          },
+          {
+            "period": "2026-02-04",
+            "value": 56,
+            "change": 5.7
+          },
+          {
+            "period": "2026-02-11",
+            "value": 53,
             "change": -5.4
           },
           {
-            "period": "2026-07-10",
-            "value": 31,
-            "change": -11.4
+            "period": "2026-02-18",
+            "value": 62,
+            "change": 17
+          },
+          {
+            "period": "2026-02-25",
+            "value": 88,
+            "change": 41.9
+          },
+          {
+            "period": "2026-03-04",
+            "value": 86,
+            "change": -2.3
+          },
+          {
+            "period": "2026-03-11",
+            "value": 96,
+            "change": 11.6
+          },
+          {
+            "period": "2026-03-18",
+            "value": 91,
+            "change": -5.2
+          },
+          {
+            "period": "2026-03-25",
+            "value": 87,
+            "change": -4.4
+          },
+          {
+            "period": "2026-04-01",
+            "value": 78,
+            "change": -10.3
+          },
+          {
+            "period": "2026-04-08",
+            "value": 78,
+            "change": 0
+          },
+          {
+            "period": "2026-04-15",
+            "value": 92,
+            "change": 17.9
+          },
+          {
+            "period": "2026-04-22",
+            "value": 81,
+            "change": -12
+          },
+          {
+            "period": "2026-04-29",
+            "value": 79,
+            "change": -2.5
+          },
+          {
+            "period": "2026-05-06",
+            "value": 73,
+            "change": -7.6
+          },
+          {
+            "period": "2026-05-13",
+            "value": 85,
+            "change": 16.4
+          },
+          {
+            "period": "2026-05-20",
+            "value": 68,
+            "change": -20
+          },
+          {
+            "period": "2026-05-27",
+            "value": 61,
+            "change": -10.3
+          },
+          {
+            "period": "2026-06-03",
+            "value": 53,
+            "change": -13.1
+          },
+          {
+            "period": "2026-06-10",
+            "value": 51,
+            "change": -3.8
+          },
+          {
+            "period": "2026-06-17",
+            "value": 47,
+            "change": -7.8
+          },
+          {
+            "period": "2026-06-24",
+            "value": 37,
+            "change": -21.3
+          },
+          {
+            "period": "2026-07-01",
+            "value": 36,
+            "change": -2.7
+          },
+          {
+            "period": "2026-07-08",
+            "value": 32,
+            "change": -11.1
+          },
+          {
+            "period": "2026-07-15",
+            "value": 27,
+            "change": -15.6
           }
         ],
         "raw_growth": {
-          "mom_change": -0.4,
           "yoy_change": null,
+          "mom_change": -0.4,
           "wow_change": -0.1
         },
-        "latest": 31,
-        "momPct": -11.4,
-        "yoyPct": 40.9
+        "latest": 27,
+        "momPct": -15.6,
+        "yoyPct": 28.6
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "모한": {
       "keyword": "모한",
@@ -17351,7 +17351,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "여성반바지": {
       "keyword": "여성반바지",
@@ -17559,7 +17559,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "숏팬츠": {
       "keyword": "숏팬츠",
@@ -17766,281 +17766,281 @@
         "available": true,
         "points": [
           {
-            "period": "2025-07-11",
-            "value": 57,
+            "period": "2025-07-16",
+            "value": 52,
             "change": null
           },
           {
-            "period": "2025-07-18",
-            "value": 52,
-            "change": -8.8
+            "period": "2025-07-23",
+            "value": 65,
+            "change": 25
           },
           {
-            "period": "2025-07-25",
-            "value": 66,
-            "change": 26.9
+            "period": "2025-07-30",
+            "value": 74,
+            "change": 13.8
           },
           {
-            "period": "2025-08-01",
-            "value": 71,
-            "change": 7.6
+            "period": "2025-08-06",
+            "value": 64,
+            "change": -13.5
           },
           {
-            "period": "2025-08-08",
-            "value": 62,
-            "change": -12.7
-          },
-          {
-            "period": "2025-08-15",
+            "period": "2025-08-13",
             "value": 60,
-            "change": -3.2
+            "change": -6.2
           },
           {
-            "period": "2025-08-22",
-            "value": 53,
-            "change": -11.7
+            "period": "2025-08-20",
+            "value": 52,
+            "change": -13.3
           },
           {
-            "period": "2025-08-29",
-            "value": 54,
-            "change": 1.9
-          },
-          {
-            "period": "2025-09-05",
-            "value": 58,
-            "change": 7.4
-          },
-          {
-            "period": "2025-09-12",
-            "value": 70,
-            "change": 20.7
-          },
-          {
-            "period": "2025-09-19",
-            "value": 85,
-            "change": 21.4
-          },
-          {
-            "period": "2025-09-26",
-            "value": 91,
-            "change": 7.1
-          },
-          {
-            "period": "2025-10-03",
-            "value": 75,
-            "change": -17.6
-          },
-          {
-            "period": "2025-10-10",
-            "value": 87,
-            "change": 16
-          },
-          {
-            "period": "2025-10-17",
-            "value": 77,
-            "change": -11.5
-          },
-          {
-            "period": "2025-10-24",
-            "value": 100,
-            "change": 29.9
-          },
-          {
-            "period": "2025-10-31",
-            "value": 90,
-            "change": -10
-          },
-          {
-            "period": "2025-11-07",
-            "value": 97,
-            "change": 7.8
-          },
-          {
-            "period": "2025-11-14",
-            "value": 81,
-            "change": -16.5
-          },
-          {
-            "period": "2025-11-21",
-            "value": 87,
-            "change": 7.4
-          },
-          {
-            "period": "2025-11-28",
-            "value": 76,
-            "change": -12.6
-          },
-          {
-            "period": "2025-12-05",
+            "period": "2025-08-27",
             "value": 55,
-            "change": -27.6
+            "change": 5.8
           },
           {
-            "period": "2025-12-12",
-            "value": 66,
-            "change": 20
-          },
-          {
-            "period": "2025-12-19",
-            "value": 45,
-            "change": -31.8
-          },
-          {
-            "period": "2025-12-26",
-            "value": 55,
-            "change": 22.2
-          },
-          {
-            "period": "2026-01-02",
+            "period": "2025-09-03",
             "value": 58,
             "change": 5.5
           },
           {
-            "period": "2026-01-09",
+            "period": "2025-09-10",
+            "value": 66,
+            "change": 13.8
+          },
+          {
+            "period": "2025-09-17",
+            "value": 86,
+            "change": 30.3
+          },
+          {
+            "period": "2025-09-24",
+            "value": 84,
+            "change": -2.3
+          },
+          {
+            "period": "2025-10-01",
+            "value": 82,
+            "change": -2.4
+          },
+          {
+            "period": "2025-10-08",
+            "value": 86,
+            "change": 4.9
+          },
+          {
+            "period": "2025-10-15",
+            "value": 77,
+            "change": -10.5
+          },
+          {
+            "period": "2025-10-22",
+            "value": 100,
+            "change": 29.9
+          },
+          {
+            "period": "2025-10-29",
+            "value": 96,
+            "change": -4
+          },
+          {
+            "period": "2025-11-05",
+            "value": 93,
+            "change": -3.1
+          },
+          {
+            "period": "2025-11-12",
+            "value": 83,
+            "change": -10.8
+          },
+          {
+            "period": "2025-11-19",
+            "value": 89,
+            "change": 7.2
+          },
+          {
+            "period": "2025-11-26",
+            "value": 84,
+            "change": -5.6
+          },
+          {
+            "period": "2025-12-03",
+            "value": 52,
+            "change": -38.1
+          },
+          {
+            "period": "2025-12-10",
+            "value": 69,
+            "change": 32.7
+          },
+          {
+            "period": "2025-12-17",
+            "value": 49,
+            "change": -29
+          },
+          {
+            "period": "2025-12-24",
+            "value": 46,
+            "change": -6.1
+          },
+          {
+            "period": "2025-12-31",
             "value": 64,
-            "change": 10.3
+            "change": 39.1
           },
           {
-            "period": "2026-01-16",
-            "value": 58,
-            "change": -9.4
+            "period": "2026-01-07",
+            "value": 63,
+            "change": -1.6
           },
           {
-            "period": "2026-01-23",
-            "value": 48,
-            "change": -17.2
+            "period": "2026-01-14",
+            "value": 60,
+            "change": -4.8
           },
           {
-            "period": "2026-01-30",
+            "period": "2026-01-21",
+            "value": 50,
+            "change": -16.7
+          },
+          {
+            "period": "2026-01-28",
             "value": 41,
-            "change": -14.6
+            "change": -18
           },
           {
-            "period": "2026-02-06",
+            "period": "2026-02-04",
+            "value": 48,
+            "change": 17.1
+          },
+          {
+            "period": "2026-02-11",
             "value": 47,
-            "change": 14.6
+            "change": -2.1
           },
           {
-            "period": "2026-02-13",
-            "value": 45,
+            "period": "2026-02-18",
+            "value": 46,
+            "change": -2.1
+          },
+          {
+            "period": "2026-02-25",
+            "value": 44,
             "change": -4.3
           },
           {
-            "period": "2026-02-20",
-            "value": 49,
-            "change": 8.9
-          },
-          {
-            "period": "2026-02-27",
+            "period": "2026-03-04",
             "value": 37,
-            "change": -24.5
+            "change": -15.9
           },
           {
-            "period": "2026-03-06",
+            "period": "2026-03-11",
+            "value": 38,
+            "change": 2.7
+          },
+          {
+            "period": "2026-03-18",
+            "value": 39,
+            "change": 2.6
+          },
+          {
+            "period": "2026-03-25",
+            "value": 38,
+            "change": -2.6
+          },
+          {
+            "period": "2026-04-01",
+            "value": 48,
+            "change": 26.3
+          },
+          {
+            "period": "2026-04-08",
+            "value": 52,
+            "change": 8.3
+          },
+          {
+            "period": "2026-04-15",
+            "value": 77,
+            "change": 48.1
+          },
+          {
+            "period": "2026-04-22",
+            "value": 89,
+            "change": 15.6
+          },
+          {
+            "period": "2026-04-29",
+            "value": 72,
+            "change": -19.1
+          },
+          {
+            "period": "2026-05-06",
             "value": 40,
-            "change": 8.1
+            "change": -44.4
           },
           {
-            "period": "2026-03-13",
-            "value": 35,
-            "change": -12.5
+            "period": "2026-05-13",
+            "value": 43,
+            "change": 7.5
           },
           {
-            "period": "2026-03-20",
-            "value": 40,
-            "change": 14.3
+            "period": "2026-05-20",
+            "value": 48,
+            "change": 11.6
           },
           {
-            "period": "2026-03-27",
-            "value": 42,
-            "change": 5
-          },
-          {
-            "period": "2026-04-03",
-            "value": 44,
-            "change": 4.8
-          },
-          {
-            "period": "2026-04-10",
-            "value": 58,
-            "change": 31.8
-          },
-          {
-            "period": "2026-04-17",
-            "value": 80,
-            "change": 37.9
-          },
-          {
-            "period": "2026-04-24",
-            "value": 95,
-            "change": 18.8
-          },
-          {
-            "period": "2026-05-01",
-            "value": 55,
-            "change": -42.1
-          },
-          {
-            "period": "2026-05-08",
-            "value": 42,
-            "change": -23.6
-          },
-          {
-            "period": "2026-05-15",
-            "value": 44,
-            "change": 4.8
-          },
-          {
-            "period": "2026-05-22",
-            "value": 45,
-            "change": 2.3
-          },
-          {
-            "period": "2026-05-29",
+            "period": "2026-05-27",
             "value": 46,
-            "change": 2.2
+            "change": -4.2
           },
           {
-            "period": "2026-06-05",
-            "value": 49,
-            "change": 6.5
+            "period": "2026-06-03",
+            "value": 48,
+            "change": 4.3
           },
           {
-            "period": "2026-06-12",
-            "value": 49,
+            "period": "2026-06-10",
+            "value": 50,
+            "change": 4.2
+          },
+          {
+            "period": "2026-06-17",
+            "value": 45,
+            "change": -10
+          },
+          {
+            "period": "2026-06-24",
+            "value": 51,
+            "change": 13.3
+          },
+          {
+            "period": "2026-07-01",
+            "value": 48,
+            "change": -5.9
+          },
+          {
+            "period": "2026-07-08",
+            "value": 48,
             "change": 0
           },
           {
-            "period": "2026-06-19",
-            "value": 44,
-            "change": -10.2
-          },
-          {
-            "period": "2026-06-26",
-            "value": 51,
-            "change": 15.9
-          },
-          {
-            "period": "2026-07-03",
-            "value": 46,
-            "change": -9.8
-          },
-          {
-            "period": "2026-07-10",
-            "value": 52,
-            "change": 13
+            "period": "2026-07-15",
+            "value": 53,
+            "change": 10.4
           }
         ],
         "raw_growth": {
-          "yoy_change": null,
           "wow_change": 0.1,
-          "mom_change": 0.02
+          "yoy_change": null,
+          "mom_change": 0.06
         },
-        "latest": 52,
-        "momPct": 13,
-        "yoyPct": -8.8
+        "latest": 53,
+        "momPct": 10.4,
+        "yoyPct": 1.9
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "슬리브리스": {
       "keyword": "슬리브리스",
@@ -18247,281 +18247,281 @@
         "available": true,
         "points": [
           {
-            "period": "2025-07-11",
-            "value": 100,
+            "period": "2025-07-16",
+            "value": 92,
             "change": null
           },
           {
-            "period": "2025-07-18",
-            "value": 86,
-            "change": -14
+            "period": "2025-07-23",
+            "value": 98,
+            "change": 6.5
           },
           {
-            "period": "2025-07-25",
-            "value": 88,
-            "change": 2.3
+            "period": "2025-07-30",
+            "value": 94,
+            "change": -4.1
           },
           {
-            "period": "2025-08-01",
+            "period": "2025-08-06",
+            "value": 92,
+            "change": -2.1
+          },
+          {
+            "period": "2025-08-13",
             "value": 84,
-            "change": -4.5
+            "change": -8.7
           },
           {
-            "period": "2025-08-08",
-            "value": 88,
-            "change": 4.8
-          },
-          {
-            "period": "2025-08-15",
-            "value": 70,
-            "change": -20.5
-          },
-          {
-            "period": "2025-08-22",
-            "value": 53,
-            "change": -24.3
-          },
-          {
-            "period": "2025-08-29",
-            "value": 46,
-            "change": -13.2
-          },
-          {
-            "period": "2025-09-05",
-            "value": 52,
-            "change": 13
-          },
-          {
-            "period": "2025-09-12",
-            "value": 46,
-            "change": -11.5
-          },
-          {
-            "period": "2025-09-19",
-            "value": 54,
-            "change": 17.4
-          },
-          {
-            "period": "2025-09-26",
-            "value": 42,
-            "change": -22.2
-          },
-          {
-            "period": "2025-10-03",
-            "value": 36,
-            "change": -14.3
-          },
-          {
-            "period": "2025-10-10",
-            "value": 27,
+            "period": "2025-08-20",
+            "value": 63,
             "change": -25
           },
           {
-            "period": "2025-10-17",
-            "value": 31,
-            "change": 14.8
+            "period": "2025-08-27",
+            "value": 48,
+            "change": -23.8
           },
           {
-            "period": "2025-10-24",
-            "value": 30,
-            "change": -3.2
+            "period": "2025-09-03",
+            "value": 58,
+            "change": 20.8
           },
           {
-            "period": "2025-10-31",
-            "value": 31,
-            "change": 3.3
+            "period": "2025-09-10",
+            "value": 50,
+            "change": -13.8
           },
           {
-            "period": "2025-11-07",
-            "value": 34,
-            "change": 9.7
+            "period": "2025-09-17",
+            "value": 58,
+            "change": 16
           },
           {
-            "period": "2025-11-14",
-            "value": 22,
-            "change": -35.3
+            "period": "2025-09-24",
+            "value": 47,
+            "change": -19
           },
           {
-            "period": "2025-11-21",
+            "period": "2025-10-01",
+            "value": 45,
+            "change": -4.3
+          },
+          {
+            "period": "2025-10-08",
+            "value": 35,
+            "change": -22.2
+          },
+          {
+            "period": "2025-10-15",
             "value": 27,
-            "change": 22.7
+            "change": -22.9
           },
           {
-            "period": "2025-11-28",
+            "period": "2025-10-22",
             "value": 32,
             "change": 18.5
           },
           {
-            "period": "2025-12-05",
-            "value": 26,
-            "change": -18.7
+            "period": "2025-10-29",
+            "value": 37,
+            "change": 15.6
           },
           {
-            "period": "2025-12-12",
+            "period": "2025-11-05",
             "value": 31,
-            "change": 19.2
+            "change": -16.2
           },
           {
-            "period": "2025-12-19",
+            "period": "2025-11-12",
+            "value": 32,
+            "change": 3.2
+          },
+          {
+            "period": "2025-11-19",
+            "value": 27,
+            "change": -15.6
+          },
+          {
+            "period": "2025-11-26",
+            "value": 32,
+            "change": 18.5
+          },
+          {
+            "period": "2025-12-03",
             "value": 30,
-            "change": -3.2
+            "change": -6.2
           },
           {
-            "period": "2025-12-26",
-            "value": 24,
-            "change": -20
+            "period": "2025-12-10",
+            "value": 32,
+            "change": 6.7
           },
           {
-            "period": "2026-01-02",
-            "value": 28,
-            "change": 16.7
-          },
-          {
-            "period": "2026-01-09",
-            "value": 33,
-            "change": 17.9
-          },
-          {
-            "period": "2026-01-16",
-            "value": 34,
-            "change": 3
-          },
-          {
-            "period": "2026-01-23",
+            "period": "2025-12-17",
             "value": 31,
-            "change": -8.8
+            "change": -3.1
           },
           {
-            "period": "2026-01-30",
-            "value": 36,
-            "change": 16.1
+            "period": "2025-12-24",
+            "value": 32,
+            "change": 3.2
           },
           {
-            "period": "2026-02-06",
-            "value": 38,
-            "change": 5.6
+            "period": "2025-12-31",
+            "value": 31,
+            "change": -3.1
           },
           {
-            "period": "2026-02-13",
-            "value": 48,
-            "change": 26.3
+            "period": "2026-01-07",
+            "value": 34,
+            "change": 9.7
           },
           {
-            "period": "2026-02-20",
-            "value": 38,
-            "change": -20.8
+            "period": "2026-01-14",
+            "value": 35,
+            "change": 2.9
           },
           {
-            "period": "2026-02-27",
-            "value": 41,
-            "change": 7.9
+            "period": "2026-01-21",
+            "value": 34,
+            "change": -2.9
           },
           {
-            "period": "2026-03-06",
+            "period": "2026-01-28",
+            "value": 44,
+            "change": 29.4
+          },
+          {
+            "period": "2026-02-04",
+            "value": 33,
+            "change": -25
+          },
+          {
+            "period": "2026-02-11",
             "value": 53,
-            "change": 29.3
+            "change": 60.6
           },
           {
-            "period": "2026-03-13",
+            "period": "2026-02-18",
             "value": 41,
             "change": -22.6
           },
           {
-            "period": "2026-03-20",
+            "period": "2026-02-25",
+            "value": 47,
+            "change": 14.6
+          },
+          {
+            "period": "2026-03-04",
+            "value": 50,
+            "change": 6.4
+          },
+          {
+            "period": "2026-03-11",
+            "value": 47,
+            "change": -6
+          },
+          {
+            "period": "2026-03-18",
             "value": 55,
-            "change": 34.1
+            "change": 17
           },
           {
-            "period": "2026-03-27",
-            "value": 46,
-            "change": -16.4
+            "period": "2026-03-25",
+            "value": 56,
+            "change": 1.8
           },
           {
-            "period": "2026-04-03",
-            "value": 61,
-            "change": 32.6
+            "period": "2026-04-01",
+            "value": 63,
+            "change": 12.5
           },
           {
-            "period": "2026-04-10",
-            "value": 53,
-            "change": -13.1
+            "period": "2026-04-08",
+            "value": 55,
+            "change": -12.7
           },
           {
-            "period": "2026-04-17",
+            "period": "2026-04-15",
             "value": 72,
-            "change": 35.8
+            "change": 30.9
           },
           {
-            "period": "2026-04-24",
+            "period": "2026-04-22",
+            "value": 74,
+            "change": 2.8
+          },
+          {
+            "period": "2026-04-29",
+            "value": 83,
+            "change": 12.2
+          },
+          {
+            "period": "2026-05-06",
+            "value": 70,
+            "change": -15.7
+          },
+          {
+            "period": "2026-05-13",
+            "value": 100,
+            "change": 42.9
+          },
+          {
+            "period": "2026-05-20",
+            "value": 86,
+            "change": -14
+          },
+          {
+            "period": "2026-05-27",
             "value": 71,
-            "change": -1.4
+            "change": -17.4
           },
           {
-            "period": "2026-05-01",
-            "value": 66,
-            "change": -7
+            "period": "2026-06-03",
+            "value": 85,
+            "change": 19.7
           },
           {
-            "period": "2026-05-08",
+            "period": "2026-06-10",
+            "value": 84,
+            "change": -1.2
+          },
+          {
+            "period": "2026-06-17",
             "value": 71,
-            "change": 7.6
+            "change": -15.5
           },
           {
-            "period": "2026-05-15",
-            "value": 99,
-            "change": 39.4
+            "period": "2026-06-24",
+            "value": 76,
+            "change": 7
           },
           {
-            "period": "2026-05-22",
-            "value": 66,
-            "change": -33.3
+            "period": "2026-07-01",
+            "value": 69,
+            "change": -9.2
           },
           {
-            "period": "2026-05-29",
-            "value": 66,
-            "change": 0
-          },
-          {
-            "period": "2026-06-05",
+            "period": "2026-07-08",
             "value": 75,
-            "change": 13.6
+            "change": 8.7
           },
           {
-            "period": "2026-06-12",
-            "value": 79,
-            "change": 5.3
-          },
-          {
-            "period": "2026-06-19",
-            "value": 71,
-            "change": -10.1
-          },
-          {
-            "period": "2026-06-26",
-            "value": 72,
-            "change": 1.4
-          },
-          {
-            "period": "2026-07-03",
-            "value": 54,
-            "change": -25
-          },
-          {
-            "period": "2026-07-10",
-            "value": 71,
-            "change": 31.5
+            "period": "2026-07-15",
+            "value": 84,
+            "change": 12
           }
         ],
         "raw_growth": {
           "yoy_change": null,
-          "wow_change": 0.3,
-          "mom_change": -0.07
+          "mom_change": -0.02,
+          "wow_change": 0.1
         },
-        "latest": 71,
-        "momPct": 31.5,
-        "yoyPct": -29
+        "latest": 84,
+        "momPct": 12,
+        "yoyPct": -8.7
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "여름하의": {
       "keyword": "여름하의",
@@ -18704,7 +18704,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "양산": {
       "keyword": "양산",
@@ -18715,62 +18715,62 @@
         "points": [
           {
             "period": "20230701",
-            "value": 28.6,
+            "value": 18.2,
             "change": null
           },
           {
             "period": "20230801",
-            "value": 85.7,
-            "change": 199.7
+            "value": 54.5,
+            "change": 199.5
           },
           {
             "period": "20230901",
-            "value": 42.9,
+            "value": 27.3,
             "change": -49.9
           },
           {
             "period": "20240501",
-            "value": 14.3,
+            "value": 9.1,
             "change": -66.7
           },
           {
             "period": "20240701",
-            "value": 57.1,
-            "change": 299.3
+            "value": 36.4,
+            "change": 300
           },
           {
             "period": "20240801",
-            "value": 14.3,
+            "value": 9.1,
             "change": -75
           },
           {
             "period": "20241201",
-            "value": 85.7,
-            "change": 499.3
+            "value": 54.5,
+            "change": 498.9
           },
           {
             "period": "20250701",
-            "value": 42.9,
+            "value": 27.3,
             "change": -49.9
           },
           {
             "period": "20260401",
-            "value": 14.3,
+            "value": 9.1,
             "change": -66.7
           },
           {
             "period": "20260501",
-            "value": 14.3,
+            "value": 9.1,
             "change": 0
           },
           {
             "period": "20260601",
-            "value": 100,
-            "change": 599.3
+            "value": 63.6,
+            "change": 598.9
           }
         ],
-        "latest": 100,
-        "momPct": 599.3,
+        "latest": 63.6,
+        "momPct": 598.9,
         "yoyPct": null
       },
       "youtube": {
@@ -18787,7 +18787,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-14T08:30:05+09:00"
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     "에고이스트": {
       "keyword": "에고이스트",
@@ -20688,6 +20688,332 @@
         "reason": "rate-limited (429)"
       },
       "updatedAt": "2026-07-20T08:30:04+09:00"
+    },
+    "지고트원피스": {
+      "keyword": "지고트원피스",
+      "naver": {
+        "source": "naver",
+        "unit": "month",
+        "category": "패션의류",
+        "points": [
+          {
+            "period": "20230701",
+            "value": 100,
+            "change": null
+          },
+          {
+            "period": "20230801",
+            "value": 85.2,
+            "change": -14.8
+          },
+          {
+            "period": "20230901",
+            "value": 82.9,
+            "change": -2.7
+          },
+          {
+            "period": "20231001",
+            "value": 79.9,
+            "change": -3.6
+          },
+          {
+            "period": "20231101",
+            "value": 67,
+            "change": -16.1
+          },
+          {
+            "period": "20231201",
+            "value": 49.2,
+            "change": -26.6
+          },
+          {
+            "period": "20240101",
+            "value": 56.6,
+            "change": 15
+          },
+          {
+            "period": "20240201",
+            "value": 59.5,
+            "change": 5.1
+          },
+          {
+            "period": "20240301",
+            "value": 67.2,
+            "change": 12.9
+          },
+          {
+            "period": "20240401",
+            "value": 67.2,
+            "change": 0
+          },
+          {
+            "period": "20240501",
+            "value": 81.2,
+            "change": 20.8
+          },
+          {
+            "period": "20240601",
+            "value": 71.7,
+            "change": -11.7
+          },
+          {
+            "period": "20240701",
+            "value": 67.2,
+            "change": -6.3
+          },
+          {
+            "period": "20240801",
+            "value": 59.8,
+            "change": -11
+          },
+          {
+            "period": "20240901",
+            "value": 60.9,
+            "change": 1.8
+          },
+          {
+            "period": "20241001",
+            "value": 58.2,
+            "change": -4.4
+          },
+          {
+            "period": "20241101",
+            "value": 37.7,
+            "change": -35.2
+          },
+          {
+            "period": "20241201",
+            "value": 34.4,
+            "change": -8.8
+          },
+          {
+            "period": "20250101",
+            "value": 33.8,
+            "change": -1.7
+          },
+          {
+            "period": "20250201",
+            "value": 41.7,
+            "change": 23.4
+          },
+          {
+            "period": "20250301",
+            "value": 51.1,
+            "change": 22.5
+          },
+          {
+            "period": "20250401",
+            "value": 57.3,
+            "change": 12.1
+          },
+          {
+            "period": "20250501",
+            "value": 59.6,
+            "change": 4
+          },
+          {
+            "period": "20250601",
+            "value": 53.2,
+            "change": -10.7
+          },
+          {
+            "period": "20250701",
+            "value": 52.8,
+            "change": -0.8
+          },
+          {
+            "period": "20250801",
+            "value": 35.7,
+            "change": -32.4
+          },
+          {
+            "period": "20250901",
+            "value": 35.9,
+            "change": 0.6
+          },
+          {
+            "period": "20251001",
+            "value": 32.1,
+            "change": -10.6
+          },
+          {
+            "period": "20251101",
+            "value": 20.3,
+            "change": -36.8
+          },
+          {
+            "period": "20251201",
+            "value": 18,
+            "change": -11.3
+          },
+          {
+            "period": "20260101",
+            "value": 15.7,
+            "change": -12.8
+          },
+          {
+            "period": "20260201",
+            "value": 13.7,
+            "change": -12.7
+          },
+          {
+            "period": "20260301",
+            "value": 17,
+            "change": 24.1
+          },
+          {
+            "period": "20260401",
+            "value": 15.5,
+            "change": -8.8
+          },
+          {
+            "period": "20260501",
+            "value": 19,
+            "change": 22.6
+          },
+          {
+            "period": "20260601",
+            "value": 17.9,
+            "change": -5.8
+          }
+        ],
+        "latest": 17.9,
+        "momPct": -5.8,
+        "yoyPct": -66.4
+      },
+      "youtube": {
+        "source": "youtube",
+        "points": [],
+        "available": false,
+        "reason": "HTTP 400"
+      },
+      "pinterest": {
+        "source": "pinterest",
+        "country": "KR",
+        "unit": "week",
+        "points": [],
+        "available": false,
+        "reason": "no-data"
+      },
+      "updatedAt": "2026-07-21T08:30:04+09:00"
+    },
+    "하이산": {
+      "keyword": "하이산",
+      "naver": {
+        "source": "naver",
+        "unit": "month",
+        "category": "패션잡화",
+        "points": [
+          {
+            "period": "20230701",
+            "value": 4.3,
+            "change": null
+          },
+          {
+            "period": "20230901",
+            "value": 4.3,
+            "change": 0
+          },
+          {
+            "period": "20240501",
+            "value": 4.3,
+            "change": 0
+          },
+          {
+            "period": "20240701",
+            "value": 2.2,
+            "change": -48.8
+          },
+          {
+            "period": "20240801",
+            "value": 10.9,
+            "change": 395.5
+          },
+          {
+            "period": "20240901",
+            "value": 15.2,
+            "change": 39.4
+          },
+          {
+            "period": "20241001",
+            "value": 34.8,
+            "change": 128.9
+          },
+          {
+            "period": "20241101",
+            "value": 10.9,
+            "change": -68.7
+          },
+          {
+            "period": "20250201",
+            "value": 2.2,
+            "change": -79.8
+          },
+          {
+            "period": "20250501",
+            "value": 4.3,
+            "change": 95.5
+          },
+          {
+            "period": "20250601",
+            "value": 4.3,
+            "change": 0
+          },
+          {
+            "period": "20250801",
+            "value": 6.5,
+            "change": 51.2
+          },
+          {
+            "period": "20250901",
+            "value": 82.6,
+            "change": 1170.8
+          },
+          {
+            "period": "20251001",
+            "value": 100,
+            "change": 21.1
+          },
+          {
+            "period": "20251101",
+            "value": 21.7,
+            "change": -78.3
+          },
+          {
+            "period": "20251201",
+            "value": 23.9,
+            "change": 10.1
+          },
+          {
+            "period": "20260101",
+            "value": 10.9,
+            "change": -54.4
+          },
+          {
+            "period": "20260501",
+            "value": 2.2,
+            "change": -79.8
+          }
+        ],
+        "latest": 2.2,
+        "momPct": -79.8,
+        "yoyPct": -85.5
+      },
+      "youtube": {
+        "source": "youtube",
+        "points": [],
+        "available": false,
+        "reason": "HTTP 400"
+      },
+      "pinterest": {
+        "source": "pinterest",
+        "country": "KR",
+        "unit": "week",
+        "points": [],
+        "available": false,
+        "reason": "no-data"
+      },
+      "updatedAt": "2026-07-21T08:30:04+09:00"
     }
   }
 }
