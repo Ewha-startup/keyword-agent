@@ -2570,5 +2570,287 @@
         "dataDate": "2026-07-21"
       }
     ]
+  },
+  "2026-07-22": {
+    "date": "2026-07-22",
+    "collectedAt": "2026-07-22T08:30:03+09:00",
+    "sources": [
+      {
+        "id": "naver",
+        "name": "네이버",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "원피스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "여름원피스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "블라우스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "플리츠원피스",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "티셔츠",
+            "change": 2,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "에고이스트",
+            "change": null,
+            "isNew": true
+          },
+          {
+            "rank": 7,
+            "keyword": "여성반바지",
+            "change": null,
+            "isNew": true
+          },
+          {
+            "rank": 8,
+            "keyword": "잇미샤원피스",
+            "change": -2,
+            "isNew": false
+          },
+          {
+            "rank": 9,
+            "keyword": "우비",
+            "change": null,
+            "isNew": true
+          },
+          {
+            "rank": 10,
+            "keyword": "올리비아로렌",
+            "change": null,
+            "isNew": true
+          }
+        ],
+        "sourceUpdatedAt": "2026.07.20. ~ 2026.07.20.",
+        "dataDate": "2026-07-20"
+      },
+      {
+        "id": "musinsa",
+        "name": "무신사",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "반팔",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "백팩",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "반바지",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "아디다스",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "가방",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "버뮤다팬츠",
+            "change": -3,
+            "isNew": false
+          },
+          {
+            "rank": 7,
+            "keyword": "모자",
+            "change": 2,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "샌들",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 9,
+            "keyword": "쪼리",
+            "change": -2,
+            "isNew": false
+          },
+          {
+            "rank": 10,
+            "keyword": "크록스",
+            "change": 1,
+            "isNew": false
+          }
+        ],
+        "sourceUpdatedAt": null,
+        "dataDate": "2026-07-22"
+      },
+      {
+        "id": "wconcept",
+        "name": "W컨셉",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "여름원피스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "레인부츠",
+            "change": 17,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "반팔",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "원피스",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "블라우스",
+            "change": 2,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "수영복",
+            "change": 9,
+            "isNew": false
+          },
+          {
+            "rank": 7,
+            "keyword": "슬리브리스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "플리츠",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 9,
+            "keyword": "레이에",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 10,
+            "keyword": "플리츠세트",
+            "change": 0,
+            "isNew": false
+          }
+        ],
+        "sourceUpdatedAt": "07.22 08:00",
+        "dataDate": "2026-07-22"
+      },
+      {
+        "id": "29cm",
+        "name": "29cm",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "유라고",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "수영복",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "글로니",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "블라우스",
+            "change": 3,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "하이산",
+            "change": 4,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "에코백",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 7,
+            "keyword": "원피스",
+            "change": 3,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "쪼리",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 9,
+            "keyword": "루에브르",
+            "change": -3,
+            "isNew": false
+          },
+          {
+            "rank": 10,
+            "keyword": "몽돌",
+            "change": null,
+            "isNew": true
+          }
+        ],
+        "sourceUpdatedAt": "2026-07-22T07:00:00.000000+09:00",
+        "dataDate": "2026-07-22"
+      }
+    ]
   }
 }

@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-21T08:30:04+09:00",
+  "updatedAt": "2026-07-22T08:30:04+09:00",
   "unit": "month",
   "months": 36,
   "youtubeAvailable": true,
   "pinterestCountry": "KR",
-  "pinterestAvailableCount": 24,
+  "pinterestAvailableCount": 25,
   "keywords": [
     {
       "keyword": "골프반바지",
@@ -71,6 +71,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-21T08:30:04+09:00"
+    },
+    {
+      "keyword": "플리츠",
+      "naverLatest": 66.2,
+      "naverMomPct": 26.6,
+      "naverYoyPct": 21.7,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 69,
+      "pinterestYoyPct": 76.9,
+      "updatedAt": "2026-07-22T08:30:04+09:00"
     },
     {
       "keyword": "루에브르",
@@ -161,6 +172,17 @@
       "updatedAt": "2026-07-20T08:30:04+09:00"
     },
     {
+      "keyword": "플리츠세트",
+      "naverLatest": 52.8,
+      "naverMomPct": 26.3,
+      "naverYoyPct": -19.1,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-22T08:30:04+09:00"
+    },
+    {
       "keyword": "레이브",
       "naverLatest": 42.5,
       "naverMomPct": 25.7,
@@ -236,6 +258,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-20T08:30:04+09:00"
+    },
+    {
+      "keyword": "올리비아로렌",
+      "naverLatest": 26,
+      "naverMomPct": -20.5,
+      "naverYoyPct": -41,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-22T08:30:04+09:00"
     },
     {
       "keyword": "하객룩",
@@ -612,6 +645,17 @@
       "updatedAt": "2026-07-20T08:30:04+09:00"
     },
     {
+      "keyword": "레이에",
+      "naverLatest": 2.8,
+      "naverMomPct": 154.5,
+      "naverYoyPct": -70.8,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-22T08:30:04+09:00"
+    },
+    {
       "keyword": "잇미샤원피스",
       "naverLatest": 23.8,
       "naverMomPct": -14.1,
@@ -665,6 +709,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-20T08:30:04+09:00"
+    },
+    {
+      "keyword": "우비",
+      "naverLatest": 6.9,
+      "naverMomPct": -13.7,
+      "naverYoyPct": -81.5,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-22T08:30:04+09:00"
     },
     {
       "keyword": "하이산",
@@ -873,7 +928,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-21T08:30:04+09:00"
+      "updatedAt": "2026-07-22T08:30:04+09:00"
     },
     {
       "keyword": "우양산",
