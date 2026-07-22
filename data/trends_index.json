@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-22T08:30:04+09:00",
+  "updatedAt": "2026-07-23T08:30:03+09:00",
   "unit": "month",
   "months": 36,
   "youtubeAvailable": true,
   "pinterestCountry": "KR",
-  "pinterestAvailableCount": 25,
+  "pinterestAvailableCount": 26,
   "keywords": [
     {
       "keyword": "골프반바지",
@@ -49,6 +49,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-20T08:30:04+09:00"
+    },
+    {
+      "keyword": "카프리팬츠",
+      "naverLatest": 83.9,
+      "naverMomPct": -16.1,
+      "naverYoyPct": 89.8,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 54,
+      "pinterestYoyPct": 350,
+      "updatedAt": "2026-07-23T08:30:03+09:00"
     },
     {
       "keyword": "리퍼브",
@@ -269,6 +280,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-22T08:30:04+09:00"
+    },
+    {
+      "keyword": "남자반팔티",
+      "naverLatest": 13.5,
+      "naverMomPct": -25.8,
+      "naverYoyPct": -42.3,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-23T08:30:03+09:00"
     },
     {
       "keyword": "하객룩",
@@ -821,6 +843,17 @@
       "updatedAt": "2026-07-20T08:30:04+09:00"
     },
     {
+      "keyword": "부츠",
+      "naverLatest": 1.3,
+      "naverMomPct": -74,
+      "naverYoyPct": -97.3,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-23T08:30:03+09:00"
+    },
+    {
       "keyword": "에코백",
       "naverLatest": 0.9,
       "naverMomPct": 80,
@@ -928,7 +961,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-22T08:30:04+09:00"
+      "updatedAt": "2026-07-23T08:30:03+09:00"
     },
     {
       "keyword": "우양산",
@@ -951,6 +984,28 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-21T08:30:04+09:00"
+    },
+    {
+      "keyword": "이미지피스",
+      "naverLatest": 86.4,
+      "naverMomPct": 3656.5,
+      "naverYoyPct": null,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-23T08:30:03+09:00"
+    },
+    {
+      "keyword": "반짝이구두",
+      "naverLatest": 100,
+      "naverMomPct": null,
+      "naverYoyPct": null,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-23T08:30:03+09:00"
     }
   ]
 }
