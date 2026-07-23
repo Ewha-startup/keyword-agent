@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T08:30:03+09:00",
+  "updatedAt": "2026-07-24T08:30:04+09:00",
   "unit": "month",
   "months": 36,
   "youtubeAvailable": true,
@@ -961,7 +961,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-23T08:30:03+09:00"
+      "updatedAt": "2026-07-24T08:30:04+09:00"
     },
     {
       "keyword": "우양산",
@@ -1006,6 +1006,28 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-23T08:30:03+09:00"
+    },
+    {
+      "keyword": "실버 귀걸이",
+      "naverLatest": 100,
+      "naverMomPct": null,
+      "naverYoyPct": null,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-24T08:30:04+09:00"
+    },
+    {
+      "keyword": "남자실내수영복",
+      "naverLatest": 33.3,
+      "naverMomPct": 0,
+      "naverYoyPct": null,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-24T08:30:04+09:00"
     }
   ]
 }

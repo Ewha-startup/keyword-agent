@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T08:30:03+09:00",
+  "updatedAt": "2026-07-24T08:30:04+09:00",
   "unit": "month",
   "keywords": {
     "원피스": {
@@ -12890,7 +12890,7 @@
         "available": false,
         "reason": "disabled"
       },
-      "updatedAt": "2026-07-23T08:30:03+09:00",
+      "updatedAt": "2026-07-24T08:30:04+09:00",
       "pinterest": {
         "source": "pinterest",
         "country": "KR",
@@ -23185,6 +23185,112 @@
         "yoyPct": 350
       },
       "updatedAt": "2026-07-23T08:30:03+09:00"
+    },
+    "실버 귀걸이": {
+      "keyword": "실버 귀걸이",
+      "naver": {
+        "source": "naver",
+        "unit": "month",
+        "category": "패션의류",
+        "points": [
+          {
+            "period": "20250501",
+            "value": 100,
+            "change": null
+          }
+        ],
+        "latest": 100,
+        "momPct": null,
+        "yoyPct": null
+      },
+      "youtube": {
+        "source": "youtube",
+        "points": [],
+        "available": false,
+        "reason": "HTTP 400"
+      },
+      "pinterest": {
+        "source": "pinterest",
+        "country": "KR",
+        "unit": "week",
+        "points": [],
+        "available": false,
+        "reason": "no-data"
+      },
+      "updatedAt": "2026-07-24T08:30:04+09:00"
+    },
+    "남자실내수영복": {
+      "keyword": "남자실내수영복",
+      "naver": {
+        "source": "naver",
+        "unit": "month",
+        "category": "패션의류",
+        "points": [
+          {
+            "period": "20230701",
+            "value": 33.3,
+            "change": null
+          },
+          {
+            "period": "20230801",
+            "value": 33.3,
+            "change": 0
+          },
+          {
+            "period": "20231001",
+            "value": 66.7,
+            "change": 100.3
+          },
+          {
+            "period": "20240401",
+            "value": 33.3,
+            "change": -50.1
+          },
+          {
+            "period": "20240801",
+            "value": 33.3,
+            "change": 0
+          },
+          {
+            "period": "20240901",
+            "value": 100,
+            "change": 200.3
+          },
+          {
+            "period": "20250201",
+            "value": 33.3,
+            "change": -66.7
+          },
+          {
+            "period": "20250301",
+            "value": 33.3,
+            "change": 0
+          },
+          {
+            "period": "20250501",
+            "value": 33.3,
+            "change": 0
+          }
+        ],
+        "latest": 33.3,
+        "momPct": 0,
+        "yoyPct": null
+      },
+      "youtube": {
+        "source": "youtube",
+        "points": [],
+        "available": false,
+        "reason": "HTTP 400"
+      },
+      "pinterest": {
+        "source": "pinterest",
+        "country": "KR",
+        "unit": "week",
+        "points": [],
+        "available": false,
+        "reason": "no-data"
+      },
+      "updatedAt": "2026-07-24T08:30:04+09:00"
     }
   }
 }
