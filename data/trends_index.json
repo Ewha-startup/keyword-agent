@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-25T17:47:24+09:00",
+  "updatedAt": "2026-07-27T07:59:36+09:00",
   "unit": "month",
   "months": 36,
   "youtubeAvailable": true,
   "pinterestCountry": "KR",
-  "pinterestAvailableCount": 26,
+  "pinterestAvailableCount": 27,
   "keywords": [
     {
       "keyword": "골프반바지",
@@ -381,6 +381,17 @@
       "updatedAt": "2026-07-21T08:30:04+09:00"
     },
     {
+      "keyword": "러블리블라우스",
+      "naverLatest": 27.1,
+      "naverMomPct": 14.8,
+      "naverYoyPct": -49.9,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-27T07:59:36+09:00"
+    },
+    {
       "keyword": "양말",
       "naverLatest": 5.7,
       "naverMomPct": 96.6,
@@ -458,6 +469,17 @@
       "updatedAt": "2026-07-20T08:30:04+09:00"
     },
     {
+      "keyword": "민소매원피스",
+      "naverLatest": 11.4,
+      "naverMomPct": 35.7,
+      "naverYoyPct": -53.1,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-27T07:59:36+09:00"
+    },
+    {
       "keyword": "스커트",
       "naverLatest": 21.6,
       "naverMomPct": -3.1,
@@ -500,6 +522,17 @@
       "pinterestLatest": 74,
       "pinterestYoyPct": -14,
       "updatedAt": "2026-07-21T08:30:04+09:00"
+    },
+    {
+      "keyword": "샤틴원피스",
+      "naverLatest": 31.2,
+      "naverMomPct": 3.3,
+      "naverYoyPct": -57,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-27T07:59:36+09:00"
     },
     {
       "keyword": "비키니",
@@ -698,6 +731,17 @@
       "pinterestLatest": 53,
       "pinterestYoyPct": 1.9,
       "updatedAt": "2026-07-21T08:30:04+09:00"
+    },
+    {
+      "keyword": "반팔티",
+      "naverLatest": 10.7,
+      "naverMomPct": -21.9,
+      "naverYoyPct": -72.6,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 62,
+      "pinterestYoyPct": -29.5,
+      "updatedAt": "2026-07-27T07:59:36+09:00"
     },
     {
       "keyword": "모한",
@@ -961,7 +1005,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-25T17:47:24+09:00"
+      "updatedAt": "2026-07-27T07:59:36+09:00"
     },
     {
       "keyword": "우양산",
