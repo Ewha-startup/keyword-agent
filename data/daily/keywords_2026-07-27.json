@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "collectedAt": "2026-07-27T07:59:21+09:00",
+  "collectedAt": "2026-07-27T08:30:04+09:00",
   "sources": [
     {
       "id": "naver",
@@ -84,56 +84,56 @@
         },
         {
           "rank": 2,
-          "keyword": "가방",
+          "keyword": "반바지",
           "change": 1,
           "isNew": false
         },
         {
           "rank": 3,
-          "keyword": "반바지",
+          "keyword": "가방",
           "change": -1,
           "isNew": false
         },
         {
           "rank": 4,
           "keyword": "아디다스",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
           "rank": 5,
           "keyword": "모자",
-          "change": -1,
-          "isNew": false
-        },
-        {
-          "rank": 6,
-          "keyword": "나시",
           "change": 1,
           "isNew": false
         },
         {
-          "rank": 7,
+          "rank": 6,
           "keyword": "백팩",
           "change": -1,
           "isNew": false
         },
         {
+          "rank": 7,
+          "keyword": "샌들",
+          "change": 5,
+          "isNew": false
+        },
+        {
           "rank": 8,
-          "keyword": "에코백",
-          "change": 1,
+          "keyword": "쪼리",
+          "change": 2,
           "isNew": false
         },
         {
           "rank": 9,
-          "keyword": "반팔티",
-          "change": 3,
+          "keyword": "나시",
+          "change": -1,
           "isNew": false
         },
         {
           "rank": 10,
-          "keyword": "쪼리",
-          "change": -2,
+          "keyword": "크록스",
+          "change": -3,
           "isNew": false
         }
       ],
@@ -147,66 +147,66 @@
       "items": [
         {
           "rank": 1,
-          "keyword": "레이에",
-          "change": 0,
+          "keyword": "여름원피스",
+          "change": 5,
           "isNew": false
         },
         {
           "rank": 2,
-          "keyword": "수영복",
-          "change": 6,
-          "isNew": false
-        },
-        {
-          "rank": 3,
-          "keyword": "나이키",
+          "keyword": "리퍼브",
           "change": 2,
           "isNew": false
         },
         {
+          "rank": 3,
+          "keyword": "수영복",
+          "change": 1,
+          "isNew": false
+        },
+        {
           "rank": 4,
-          "keyword": "리퍼브",
-          "change": 3,
+          "keyword": "민소매",
+          "change": 0,
           "isNew": false
         },
         {
           "rank": 5,
-          "keyword": "양산",
-          "change": 4,
+          "keyword": "원피스",
+          "change": 7,
           "isNew": false
         },
         {
           "rank": 6,
-          "keyword": "에코백",
+          "keyword": "샌들",
           "change": 0,
           "isNew": false
         },
         {
           "rank": 7,
-          "keyword": "민소매원피스",
+          "keyword": "루에브르 가방",
           "change": 0,
           "isNew": false
         },
         {
           "rank": 8,
-          "keyword": "우양산",
+          "keyword": "원피스수영복",
           "change": 0,
           "isNew": false
         },
         {
           "rank": 9,
-          "keyword": "여름원피스",
+          "keyword": "스틸레토힐",
           "change": 0,
           "isNew": false
         },
         {
           "rank": 10,
-          "keyword": "러블리블라우스",
+          "keyword": "여름블라우스",
           "change": 0,
           "isNew": false
         }
       ],
-      "sourceUpdatedAt": "07.27 07:00",
+      "sourceUpdatedAt": "07.27 08:00",
       "dataDate": "2026-07-27"
     },
     {
