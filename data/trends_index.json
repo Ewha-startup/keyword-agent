@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-28T08:30:04+09:00",
+  "updatedAt": "2026-07-29T08:30:04+09:00",
   "unit": "month",
   "months": 36,
   "youtubeAvailable": true,
   "pinterestCountry": "KR",
-  "pinterestAvailableCount": 27,
+  "pinterestAvailableCount": 28,
   "keywords": [
     {
       "keyword": "벨트",
@@ -101,9 +101,9 @@
       "naverYoyPct": 21.7,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
-      "pinterestLatest": 69,
-      "pinterestYoyPct": 76.9,
-      "updatedAt": "2026-07-22T08:30:04+09:00"
+      "pinterestLatest": 54,
+      "pinterestYoyPct": 58.8,
+      "updatedAt": "2026-07-29T08:30:04+09:00"
     },
     {
       "keyword": "루에브르",
@@ -202,7 +202,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-22T08:30:04+09:00"
+      "updatedAt": "2026-07-29T08:30:04+09:00"
     },
     {
       "keyword": "레이브",
@@ -301,7 +301,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-22T08:30:04+09:00"
+      "updatedAt": "2026-07-29T08:30:04+09:00"
     },
     {
       "keyword": "남자반팔티",
@@ -425,6 +425,17 @@
       "updatedAt": "2026-07-27T08:30:05+09:00"
     },
     {
+      "keyword": "남자골프바지",
+      "naverLatest": 20.8,
+      "naverMomPct": 395.2,
+      "naverYoyPct": -50.1,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-29T08:30:04+09:00"
+    },
+    {
       "keyword": "나이키",
       "naverLatest": 7.4,
       "naverMomPct": 7.2,
@@ -489,6 +500,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-27T08:30:05+09:00"
+    },
+    {
+      "keyword": "아뜰리에  나인",
+      "naverLatest": 23.2,
+      "naverMomPct": -20.5,
+      "naverYoyPct": -52.7,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-07-29T08:30:04+09:00"
     },
     {
       "keyword": "스카시니트",
@@ -722,6 +744,17 @@
       "updatedAt": "2026-07-27T08:30:05+09:00"
     },
     {
+      "keyword": "울자켓",
+      "naverLatest": 0.2,
+      "naverMomPct": -33.3,
+      "naverYoyPct": -66.7,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 8,
+      "pinterestYoyPct": 60,
+      "updatedAt": "2026-07-29T08:30:04+09:00"
+    },
+    {
       "keyword": "냉장고바지",
       "naverLatest": 9.7,
       "naverMomPct": -1,
@@ -785,7 +818,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-22T08:30:04+09:00"
+      "updatedAt": "2026-07-29T08:30:04+09:00"
     },
     {
       "keyword": "잇미샤원피스",
@@ -873,7 +906,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-22T08:30:04+09:00"
+      "updatedAt": "2026-07-29T08:30:04+09:00"
     },
     {
       "keyword": "루에브르 가방",
@@ -1115,7 +1148,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-28T08:30:04+09:00"
+      "updatedAt": "2026-07-29T08:30:04+09:00"
     },
     {
       "keyword": "우양산",
