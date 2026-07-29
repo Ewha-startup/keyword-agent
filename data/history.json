@@ -4544,5 +4544,287 @@
         "dataDate": "2026-07-29"
       }
     ]
+  },
+  "2026-07-30": {
+    "date": "2026-07-30",
+    "collectedAt": "2026-07-30T08:30:03+09:00",
+    "sources": [
+      {
+        "id": "naver",
+        "name": "네이버",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "원피스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "여름원피스",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "블라우스",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "플리츠원피스",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "잇미샤원피스",
+            "change": 5,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "듀엘원피스",
+            "change": null,
+            "isNew": true
+          },
+          {
+            "rank": 7,
+            "keyword": "시슬리원피스",
+            "change": 2,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "티셔츠",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 9,
+            "keyword": "에고이스트",
+            "change": -3,
+            "isNew": false
+          },
+          {
+            "rank": 10,
+            "keyword": "남자반바지",
+            "change": null,
+            "isNew": true
+          }
+        ],
+        "sourceUpdatedAt": "2026.07.28. ~ 2026.07.28.",
+        "dataDate": "2026-07-28"
+      },
+      {
+        "id": "musinsa",
+        "name": "무신사",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "반팔",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "모자",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "백팩",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "반바지",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "아디다스",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "나시",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 7,
+            "keyword": "버뮤다팬츠",
+            "change": 1,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "가방",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 9,
+            "keyword": "크록스",
+            "change": 6,
+            "isNew": false
+          },
+          {
+            "rank": 10,
+            "keyword": "쪼리",
+            "change": 2,
+            "isNew": false
+          }
+        ],
+        "sourceUpdatedAt": null,
+        "dataDate": "2026-07-30"
+      },
+      {
+        "id": "wconcept",
+        "name": "W컨셉",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "리퍼브",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "카프리팬츠",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "니트",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 4,
+            "keyword": "플리츠가디건",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "수영복",
+            "change": 2,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "실크속옷",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 7,
+            "keyword": "지지목걸이",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "원피스",
+            "change": 6,
+            "isNew": false
+          },
+          {
+            "rank": 9,
+            "keyword": "원피스수영복",
+            "change": 4,
+            "isNew": false
+          },
+          {
+            "rank": 10,
+            "keyword": "BAU",
+            "change": 0,
+            "isNew": false
+          }
+        ],
+        "sourceUpdatedAt": "07.30 08:00",
+        "dataDate": "2026-07-30"
+      },
+      {
+        "id": "29cm",
+        "name": "29cm",
+        "ok": true,
+        "items": [
+          {
+            "rank": 1,
+            "keyword": "유라고",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 2,
+            "keyword": "글로니",
+            "change": 0,
+            "isNew": false
+          },
+          {
+            "rank": 3,
+            "keyword": "던스트",
+            "change": null,
+            "isNew": true
+          },
+          {
+            "rank": 4,
+            "keyword": "수영복",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 5,
+            "keyword": "에코백",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 6,
+            "keyword": "블라우스",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 7,
+            "keyword": "원피스",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 8,
+            "keyword": "쪼리",
+            "change": -1,
+            "isNew": false
+          },
+          {
+            "rank": 9,
+            "keyword": "닌텐도",
+            "change": null,
+            "isNew": true
+          },
+          {
+            "rank": 10,
+            "keyword": "모자",
+            "change": 0,
+            "isNew": false
+          }
+        ],
+        "sourceUpdatedAt": "2026-07-30T07:00:00.000000+09:00",
+        "dataDate": "2026-07-30"
+      }
+    ]
   }
 }
