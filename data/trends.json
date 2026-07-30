@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T08:30:04+09:00",
+  "updatedAt": "2026-07-31T08:30:04+09:00",
   "unit": "month",
   "keywords": {
     "원피스": {
@@ -12617,7 +12617,7 @@
         "available": false,
         "reason": "disabled"
       },
-      "updatedAt": "2026-07-30T08:30:04+09:00",
+      "updatedAt": "2026-07-31T08:30:04+09:00",
       "pinterest": {
         "source": "pinterest",
         "country": "KR",
@@ -22944,7 +22944,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-24T08:30:04+09:00"
+      "updatedAt": "2026-07-31T08:30:04+09:00"
     },
     "남자실내수영복": {
       "keyword": "남자실내수영복",
@@ -22955,51 +22955,51 @@
         "points": [
           {
             "period": "20230701",
-            "value": 33.3,
+            "value": 12.5,
             "change": null
           },
           {
             "period": "20230801",
-            "value": 33.3,
+            "value": 12.5,
             "change": 0
           },
           {
             "period": "20231001",
-            "value": 66.7,
-            "change": 100.3
+            "value": 25,
+            "change": 100
           },
           {
             "period": "20240401",
-            "value": 33.3,
-            "change": -50.1
+            "value": 12.5,
+            "change": -50
           },
           {
             "period": "20240801",
-            "value": 33.3,
+            "value": 12.5,
             "change": 0
           },
           {
             "period": "20240901",
-            "value": 100,
-            "change": 200.3
+            "value": 37.5,
+            "change": 200
           },
           {
             "period": "20250201",
-            "value": 33.3,
+            "value": 12.5,
             "change": -66.7
           },
           {
             "period": "20250301",
-            "value": 33.3,
+            "value": 12.5,
             "change": 0
           },
           {
             "period": "20250501",
-            "value": 33.3,
+            "value": 12.5,
             "change": 0
           }
         ],
-        "latest": 33.3,
+        "latest": 12.5,
         "momPct": 0,
         "yoyPct": null
       },
@@ -23017,7 +23017,7 @@
         "available": false,
         "reason": "no-data"
       },
-      "updatedAt": "2026-07-24T08:30:04+09:00"
+      "updatedAt": "2026-07-31T08:30:04+09:00"
     },
     "샤틴원피스": {
       "keyword": "샤틴원피스",
@@ -28896,6 +28896,650 @@
         "yoyPct": 6.5
       },
       "updatedAt": "2026-07-30T08:30:04+09:00"
+    },
+    "백": {
+      "keyword": "백",
+      "naver": {
+        "source": "naver",
+        "unit": "month",
+        "category": "패션의류",
+        "points": [
+          {
+            "period": "20230701",
+            "value": 15,
+            "change": null
+          },
+          {
+            "period": "20230801",
+            "value": 5,
+            "change": -66.7
+          },
+          {
+            "period": "20230901",
+            "value": 12.5,
+            "change": 150
+          },
+          {
+            "period": "20231001",
+            "value": 12.5,
+            "change": 0
+          },
+          {
+            "period": "20231101",
+            "value": 20,
+            "change": 60
+          },
+          {
+            "period": "20231201",
+            "value": 7.5,
+            "change": -62.5
+          },
+          {
+            "period": "20240101",
+            "value": 15,
+            "change": 100
+          },
+          {
+            "period": "20240201",
+            "value": 30,
+            "change": 100
+          },
+          {
+            "period": "20240301",
+            "value": 17.5,
+            "change": -41.7
+          },
+          {
+            "period": "20240401",
+            "value": 22.5,
+            "change": 28.6
+          },
+          {
+            "period": "20240501",
+            "value": 12.5,
+            "change": -44.4
+          },
+          {
+            "period": "20240601",
+            "value": 15,
+            "change": 20
+          },
+          {
+            "period": "20240701",
+            "value": 20,
+            "change": 33.3
+          },
+          {
+            "period": "20240801",
+            "value": 27.5,
+            "change": 37.5
+          },
+          {
+            "period": "20240901",
+            "value": 72.5,
+            "change": 163.6
+          },
+          {
+            "period": "20241001",
+            "value": 92.5,
+            "change": 27.6
+          },
+          {
+            "period": "20241101",
+            "value": 97.5,
+            "change": 5.4
+          },
+          {
+            "period": "20241201",
+            "value": 100,
+            "change": 2.6
+          },
+          {
+            "period": "20250101",
+            "value": 92.5,
+            "change": -7.5
+          },
+          {
+            "period": "20250201",
+            "value": 25,
+            "change": -73
+          },
+          {
+            "period": "20250301",
+            "value": 15,
+            "change": -40
+          },
+          {
+            "period": "20250401",
+            "value": 17.5,
+            "change": 16.7
+          },
+          {
+            "period": "20250501",
+            "value": 25,
+            "change": 42.9
+          },
+          {
+            "period": "20250601",
+            "value": 7.5,
+            "change": -70
+          },
+          {
+            "period": "20250701",
+            "value": 17.5,
+            "change": 133.3
+          },
+          {
+            "period": "20251201",
+            "value": 2.5,
+            "change": -85.7
+          },
+          {
+            "period": "20260201",
+            "value": 12.5,
+            "change": 400
+          }
+        ],
+        "latest": 12.5,
+        "momPct": 400,
+        "yoyPct": -82.8
+      },
+      "youtube": {
+        "source": "youtube",
+        "points": [],
+        "available": false,
+        "reason": "HTTP 400"
+      },
+      "pinterest": {
+        "source": "pinterest",
+        "country": "KR",
+        "unit": "week",
+        "points": [],
+        "available": false,
+        "reason": "no-data"
+      },
+      "updatedAt": "2026-07-31T08:30:04+09:00"
+    },
+    "발마칸코트": {
+      "keyword": "발마칸코트",
+      "naver": {
+        "source": "naver",
+        "unit": "month",
+        "category": "패션의류",
+        "points": [
+          {
+            "period": "20230701",
+            "value": 3.5,
+            "change": null
+          },
+          {
+            "period": "20230801",
+            "value": 6.8,
+            "change": 94.3
+          },
+          {
+            "period": "20230901",
+            "value": 9.6,
+            "change": 41.2
+          },
+          {
+            "period": "20231001",
+            "value": 22.3,
+            "change": 132.3
+          },
+          {
+            "period": "20231101",
+            "value": 100,
+            "change": 348.4
+          },
+          {
+            "period": "20231201",
+            "value": 97.7,
+            "change": -2.3
+          },
+          {
+            "period": "20240101",
+            "value": 60.8,
+            "change": -37.8
+          },
+          {
+            "period": "20240201",
+            "value": 26.1,
+            "change": -57.1
+          },
+          {
+            "period": "20240301",
+            "value": 9.5,
+            "change": -63.6
+          },
+          {
+            "period": "20240401",
+            "value": 1.1,
+            "change": -88.4
+          },
+          {
+            "period": "20240501",
+            "value": 0.5,
+            "change": -54.5
+          },
+          {
+            "period": "20240601",
+            "value": 0.8,
+            "change": 60
+          },
+          {
+            "period": "20240701",
+            "value": 2.3,
+            "change": 187.5
+          },
+          {
+            "period": "20240801",
+            "value": 5,
+            "change": 117.4
+          },
+          {
+            "period": "20240901",
+            "value": 6.1,
+            "change": 22
+          },
+          {
+            "period": "20241001",
+            "value": 18.8,
+            "change": 208.2
+          },
+          {
+            "period": "20241101",
+            "value": 39.4,
+            "change": 109.6
+          },
+          {
+            "period": "20241201",
+            "value": 47.8,
+            "change": 21.3
+          },
+          {
+            "period": "20250101",
+            "value": 33.5,
+            "change": -29.9
+          },
+          {
+            "period": "20250201",
+            "value": 19.8,
+            "change": -40.9
+          },
+          {
+            "period": "20250301",
+            "value": 6.8,
+            "change": -65.7
+          },
+          {
+            "period": "20250401",
+            "value": 1,
+            "change": -85.3
+          },
+          {
+            "period": "20250501",
+            "value": 0.6,
+            "change": -40
+          },
+          {
+            "period": "20250601",
+            "value": 0.6,
+            "change": 0
+          },
+          {
+            "period": "20250701",
+            "value": 0.9,
+            "change": 50
+          },
+          {
+            "period": "20250801",
+            "value": 2,
+            "change": 122.2
+          },
+          {
+            "period": "20250901",
+            "value": 2.8,
+            "change": 40
+          },
+          {
+            "period": "20251001",
+            "value": 6.8,
+            "change": 142.9
+          },
+          {
+            "period": "20251101",
+            "value": 25.4,
+            "change": 273.5
+          },
+          {
+            "period": "20251201",
+            "value": 44.9,
+            "change": 76.8
+          },
+          {
+            "period": "20260101",
+            "value": 32.7,
+            "change": -27.2
+          },
+          {
+            "period": "20260201",
+            "value": 12.9,
+            "change": -60.6
+          },
+          {
+            "period": "20260301",
+            "value": 3.6,
+            "change": -72.1
+          },
+          {
+            "period": "20260401",
+            "value": 0.7,
+            "change": -80.6
+          },
+          {
+            "period": "20260501",
+            "value": 0.3,
+            "change": -57.1
+          },
+          {
+            "period": "20260601",
+            "value": 0.5,
+            "change": 66.7
+          }
+        ],
+        "latest": 0.5,
+        "momPct": 66.7,
+        "yoyPct": -16.7
+      },
+      "youtube": {
+        "source": "youtube",
+        "points": [],
+        "available": false,
+        "reason": "HTTP 400"
+      },
+      "pinterest": {
+        "source": "pinterest",
+        "country": "KR",
+        "unit": "week",
+        "available": true,
+        "points": [
+          {
+            "period": "2025-07-25",
+            "value": 8,
+            "change": null
+          },
+          {
+            "period": "2025-08-01",
+            "value": 7,
+            "change": -12.5
+          },
+          {
+            "period": "2025-08-08",
+            "value": 4,
+            "change": -42.9
+          },
+          {
+            "period": "2025-08-15",
+            "value": 5,
+            "change": 25
+          },
+          {
+            "period": "2025-08-22",
+            "value": 11,
+            "change": 120
+          },
+          {
+            "period": "2025-08-29",
+            "value": 8,
+            "change": -27.3
+          },
+          {
+            "period": "2025-09-05",
+            "value": 6,
+            "change": -25
+          },
+          {
+            "period": "2025-09-12",
+            "value": 7,
+            "change": 16.7
+          },
+          {
+            "period": "2025-09-19",
+            "value": 14,
+            "change": 100
+          },
+          {
+            "period": "2025-09-26",
+            "value": 12,
+            "change": -14.3
+          },
+          {
+            "period": "2025-10-03",
+            "value": 12,
+            "change": 0
+          },
+          {
+            "period": "2025-10-10",
+            "value": 14,
+            "change": 16.7
+          },
+          {
+            "period": "2025-10-17",
+            "value": 20,
+            "change": 42.9
+          },
+          {
+            "period": "2025-10-24",
+            "value": 35,
+            "change": 75
+          },
+          {
+            "period": "2025-10-31",
+            "value": 49,
+            "change": 40
+          },
+          {
+            "period": "2025-11-07",
+            "value": 55,
+            "change": 12.2
+          },
+          {
+            "period": "2025-11-14",
+            "value": 53,
+            "change": -3.6
+          },
+          {
+            "period": "2025-11-21",
+            "value": 100,
+            "change": 88.7
+          },
+          {
+            "period": "2025-11-28",
+            "value": 92,
+            "change": -8
+          },
+          {
+            "period": "2025-12-05",
+            "value": 70,
+            "change": -23.9
+          },
+          {
+            "period": "2025-12-12",
+            "value": 80,
+            "change": 14.3
+          },
+          {
+            "period": "2025-12-19",
+            "value": 91,
+            "change": 13.8
+          },
+          {
+            "period": "2025-12-26",
+            "value": 80,
+            "change": -12.1
+          },
+          {
+            "period": "2026-01-02",
+            "value": 71,
+            "change": -11.2
+          },
+          {
+            "period": "2026-01-09",
+            "value": 54,
+            "change": -23.9
+          },
+          {
+            "period": "2026-01-16",
+            "value": 57,
+            "change": 5.6
+          },
+          {
+            "period": "2026-01-23",
+            "value": 38,
+            "change": -33.3
+          },
+          {
+            "period": "2026-01-30",
+            "value": 50,
+            "change": 31.6
+          },
+          {
+            "period": "2026-02-06",
+            "value": 37,
+            "change": -26
+          },
+          {
+            "period": "2026-02-13",
+            "value": 37,
+            "change": 0
+          },
+          {
+            "period": "2026-02-20",
+            "value": 28,
+            "change": -24.3
+          },
+          {
+            "period": "2026-02-27",
+            "value": 28,
+            "change": 0
+          },
+          {
+            "period": "2026-03-06",
+            "value": 6,
+            "change": -78.6
+          },
+          {
+            "period": "2026-03-13",
+            "value": 19,
+            "change": 216.7
+          },
+          {
+            "period": "2026-03-20",
+            "value": 12,
+            "change": -36.8
+          },
+          {
+            "period": "2026-03-27",
+            "value": 9,
+            "change": -25
+          },
+          {
+            "period": "2026-04-03",
+            "value": 2,
+            "change": -77.8
+          },
+          {
+            "period": "2026-04-10",
+            "value": 9,
+            "change": 350
+          },
+          {
+            "period": "2026-04-17",
+            "value": 7,
+            "change": -22.2
+          },
+          {
+            "period": "2026-04-24",
+            "value": 5,
+            "change": -28.6
+          },
+          {
+            "period": "2026-05-01",
+            "value": 5,
+            "change": 0
+          },
+          {
+            "period": "2026-05-08",
+            "value": 4,
+            "change": -20
+          },
+          {
+            "period": "2026-05-15",
+            "value": 6,
+            "change": 50
+          },
+          {
+            "period": "2026-05-22",
+            "value": 5,
+            "change": -16.7
+          },
+          {
+            "period": "2026-05-29",
+            "value": 2,
+            "change": -60
+          },
+          {
+            "period": "2026-06-05",
+            "value": 2,
+            "change": 0
+          },
+          {
+            "period": "2026-06-12",
+            "value": 4,
+            "change": 100
+          },
+          {
+            "period": "2026-06-19",
+            "value": 7,
+            "change": 75
+          },
+          {
+            "period": "2026-06-26",
+            "value": 7,
+            "change": 0
+          },
+          {
+            "period": "2026-07-03",
+            "value": 7,
+            "change": 0
+          },
+          {
+            "period": "2026-07-10",
+            "value": 5,
+            "change": -28.6
+          },
+          {
+            "period": "2026-07-17",
+            "value": 3,
+            "change": -40
+          },
+          {
+            "period": "2026-07-24",
+            "value": 2,
+            "change": -33.3
+          }
+        ],
+        "raw_growth": {
+          "wow_change": -0.5,
+          "yoy_change": null,
+          "mom_change": -0.04
+        },
+        "latest": 2,
+        "momPct": -33.3,
+        "yoyPct": -75
+      },
+      "updatedAt": "2026-07-31T08:30:04+09:00"
     }
   }
 }
