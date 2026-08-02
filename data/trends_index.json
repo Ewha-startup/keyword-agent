@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-02T11:04:08+09:00",
+  "updatedAt": "2026-08-03T08:30:03+09:00",
   "unit": "month",
   "months": 36,
   "youtubeAvailable": true,
   "pinterestCountry": "KR",
-  "pinterestAvailableCount": 30,
+  "pinterestAvailableCount": 32,
   "keywords": [
     {
       "keyword": "BAU",
@@ -16,6 +16,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-30T08:30:04+09:00"
+    },
+    {
+      "keyword": "제임스펄스",
+      "naverLatest": 97.2,
+      "naverMomPct": 77,
+      "naverYoyPct": 341.8,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "벨트",
@@ -30,31 +41,20 @@
     },
     {
       "keyword": "골프반바지",
-      "naverLatest": 28.8,
-      "naverMomPct": 46.2,
-      "naverYoyPct": 278.9,
+      "naverLatest": 24.2,
+      "naverMomPct": -16,
+      "naverYoyPct": 296.7,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "샌들",
       "naverLatest": 63.2,
       "naverMomPct": 20.2,
       "naverYoyPct": 199.5,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": null,
-      "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
-    },
-    {
-      "keyword": "제임스펄스",
-      "naverLatest": 54.9,
-      "naverMomPct": 113.6,
-      "naverYoyPct": 136.6,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
       "pinterestLatest": null,
@@ -84,6 +84,17 @@
       "updatedAt": "2026-07-30T08:30:04+09:00"
     },
     {
+      "keyword": "헤이그",
+      "naverLatest": 21.9,
+      "naverMomPct": -12,
+      "naverYoyPct": 75.2,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
+    },
+    {
       "keyword": "리퍼브",
       "naverLatest": 0.6,
       "naverMomPct": -60,
@@ -93,6 +104,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-27T08:30:05+09:00"
+    },
+    {
+      "keyword": "비터셀즈",
+      "naverLatest": 41.3,
+      "naverMomPct": 10.4,
+      "naverYoyPct": 38.1,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "지지목걸이",
@@ -126,6 +148,17 @@
       "pinterestLatest": 54,
       "pinterestYoyPct": 58.8,
       "updatedAt": "2026-07-29T08:30:04+09:00"
+    },
+    {
+      "keyword": "어반드레스",
+      "naverLatest": 12,
+      "naverMomPct": 106.9,
+      "naverYoyPct": 11.1,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "루에브르",
@@ -194,6 +227,17 @@
       "updatedAt": "2026-07-28T08:30:04+09:00"
     },
     {
+      "keyword": "나일론백팩",
+      "naverLatest": 16.7,
+      "naverMomPct": -80,
+      "naverYoyPct": 0,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
+    },
+    {
       "keyword": "타라바이모션",
       "naverLatest": 32.3,
       "naverMomPct": 9.5,
@@ -214,6 +258,17 @@
       "pinterestLatest": 67,
       "pinterestYoyPct": -20.2,
       "updatedAt": "2026-07-27T08:30:05+09:00"
+    },
+    {
+      "keyword": "여름자켓",
+      "naverLatest": 12.7,
+      "naverMomPct": -43.6,
+      "naverYoyPct": -15.3,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "발마칸코트",
@@ -293,6 +348,28 @@
       "updatedAt": "2026-07-28T08:30:04+09:00"
     },
     {
+      "keyword": "에고이스트",
+      "naverLatest": 31.5,
+      "naverMomPct": 13.7,
+      "naverYoyPct": -30.6,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
+    },
+    {
+      "keyword": "레이스브라",
+      "naverLatest": 26,
+      "naverMomPct": 17.6,
+      "naverYoyPct": -35.3,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
+    },
+    {
       "keyword": "여름하의",
       "naverLatest": 42.9,
       "naverMomPct": -9.9,
@@ -337,17 +414,6 @@
       "updatedAt": "2026-07-28T08:30:04+09:00"
     },
     {
-      "keyword": "여성블라우스",
-      "naverLatest": 33.9,
-      "naverMomPct": 7.3,
-      "naverYoyPct": -40.9,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": null,
-      "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
-    },
-    {
       "keyword": "올리비아로렌",
       "naverLatest": 26,
       "naverMomPct": -20.5,
@@ -381,6 +447,17 @@
       "updatedAt": "2026-07-28T08:30:04+09:00"
     },
     {
+      "keyword": "여성블라우스",
+      "naverLatest": 36.3,
+      "naverMomPct": -8.3,
+      "naverYoyPct": -42.9,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
+    },
+    {
       "keyword": "긴팔티",
       "naverLatest": 2.1,
       "naverMomPct": -43.2,
@@ -389,17 +466,6 @@
       "youtubeYoyPct": null,
       "pinterestLatest": 53,
       "pinterestYoyPct": -18.5,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
-    },
-    {
-      "keyword": "여름자켓",
-      "naverLatest": 22.5,
-      "naverMomPct": -33.2,
-      "naverYoyPct": -44.3,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": null,
-      "pinterestYoyPct": null,
       "updatedAt": "2026-07-27T08:30:05+09:00"
     },
     {
@@ -436,26 +502,15 @@
       "updatedAt": "2026-07-27T08:30:05+09:00"
     },
     {
-      "keyword": "레이스브라",
-      "naverLatest": 18.8,
-      "naverMomPct": -10.9,
-      "naverYoyPct": -48.4,
+      "keyword": "러블리블라우스",
+      "naverLatest": 23.4,
+      "naverMomPct": -13.7,
+      "naverYoyPct": -48.3,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
-    },
-    {
-      "keyword": "에고이스트",
-      "naverLatest": 27.7,
-      "naverMomPct": -12.1,
-      "naverYoyPct": -48.5,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": null,
-      "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "에고이스트원피스",
@@ -467,17 +522,6 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-28T08:30:04+09:00"
-    },
-    {
-      "keyword": "러블리블라우스",
-      "naverLatest": 27.1,
-      "naverMomPct": 14.8,
-      "naverYoyPct": -49.9,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": null,
-      "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T07:59:36+09:00"
     },
     {
       "keyword": "양말",
@@ -513,15 +557,26 @@
       "updatedAt": "2026-07-27T08:30:05+09:00"
     },
     {
-      "keyword": "여성원피스",
-      "naverLatest": 17.5,
-      "naverMomPct": 13.6,
-      "naverYoyPct": -51.7,
+      "keyword": "샤틴원피스",
+      "naverLatest": 32.6,
+      "naverMomPct": 4.5,
+      "naverYoyPct": -51.3,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
+      "updatedAt": "2026-08-03T08:30:03+09:00"
+    },
+    {
+      "keyword": "민소매",
+      "naverLatest": 22.1,
+      "naverMomPct": 23.5,
+      "naverYoyPct": -51.3,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 87,
+      "pinterestYoyPct": -13,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "여성 검정티셔츠",
@@ -601,17 +656,6 @@
       "updatedAt": "2026-07-27T08:30:05+09:00"
     },
     {
-      "keyword": "민소매원피스",
-      "naverLatest": 11.4,
-      "naverMomPct": 35.7,
-      "naverYoyPct": -53.1,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": null,
-      "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T07:59:36+09:00"
-    },
-    {
       "keyword": "실크속옷",
       "naverLatest": 14,
       "naverMomPct": -16.7,
@@ -632,6 +676,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-28T08:30:04+09:00"
+    },
+    {
+      "keyword": "여성원피스",
+      "naverLatest": 26.9,
+      "naverMomPct": 6.7,
+      "naverYoyPct": -55.5,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "스커트",
@@ -678,43 +733,10 @@
       "updatedAt": "2026-07-28T08:30:04+09:00"
     },
     {
-      "keyword": "샤틴원피스",
-      "naverLatest": 31.2,
-      "naverMomPct": 3.3,
-      "naverYoyPct": -57,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": null,
-      "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T07:59:36+09:00"
-    },
-    {
       "keyword": "비키니",
       "naverLatest": 13.6,
       "naverMomPct": 115.9,
       "naverYoyPct": -57.2,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": null,
-      "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
-    },
-    {
-      "keyword": "여름 셋업",
-      "naverLatest": 30,
-      "naverMomPct": 15.8,
-      "naverYoyPct": -57.8,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": null,
-      "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
-    },
-    {
-      "keyword": "민소매",
-      "naverLatest": 12.9,
-      "naverMomPct": 10.3,
-      "naverYoyPct": -58.7,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
       "pinterestLatest": null,
@@ -744,6 +766,17 @@
       "updatedAt": "2026-07-27T08:30:05+09:00"
     },
     {
+      "keyword": "여름 셋업",
+      "naverLatest": 27.1,
+      "naverMomPct": -9.7,
+      "naverYoyPct": -61.3,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
+    },
+    {
       "keyword": "반팔",
       "naverLatest": 10.3,
       "naverMomPct": -24.8,
@@ -753,6 +786,28 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-07-27T08:30:05+09:00"
+    },
+    {
+      "keyword": "민소매원피스",
+      "naverLatest": 22.4,
+      "naverMomPct": 31.8,
+      "naverYoyPct": -62.3,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
+    },
+    {
+      "keyword": "반팔티",
+      "naverLatest": 10.4,
+      "naverMomPct": -2.8,
+      "naverYoyPct": -62.5,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 68,
+      "pinterestYoyPct": -20,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "베네통원피스",
@@ -866,14 +921,14 @@
     },
     {
       "keyword": "스포츠브라",
-      "naverLatest": 4.9,
-      "naverMomPct": -10.9,
-      "naverYoyPct": -68.6,
+      "naverLatest": 5.3,
+      "naverMomPct": 8.2,
+      "naverYoyPct": -67.7,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
-      "pinterestLatest": 70,
-      "pinterestYoyPct": -23.9,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
+      "pinterestLatest": 55,
+      "pinterestYoyPct": -14.1,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "니트",
@@ -940,17 +995,6 @@
       "pinterestLatest": 49,
       "pinterestYoyPct": -18.3,
       "updatedAt": "2026-07-28T08:30:04+09:00"
-    },
-    {
-      "keyword": "반팔티",
-      "naverLatest": 10.7,
-      "naverMomPct": -21.9,
-      "naverYoyPct": -72.6,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": 62,
-      "pinterestYoyPct": -29.5,
-      "updatedAt": "2026-07-27T07:59:36+09:00"
     },
     {
       "keyword": "모한",
@@ -1027,7 +1071,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "하이산",
@@ -1041,6 +1085,17 @@
       "updatedAt": "2026-07-28T08:30:04+09:00"
     },
     {
+      "keyword": "글로니",
+      "naverLatest": 1.1,
+      "naverMomPct": -21.4,
+      "naverYoyPct": -85.7,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 75,
+      "pinterestYoyPct": -1.3,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
+    },
+    {
       "keyword": "베뉴엣",
       "naverLatest": 6.5,
       "naverMomPct": -7.1,
@@ -1049,17 +1104,6 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
-    },
-    {
-      "keyword": "글로니",
-      "naverLatest": 1.4,
-      "naverMomPct": -12.5,
-      "naverYoyPct": -87.3,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": 82,
-      "pinterestYoyPct": 36.7,
       "updatedAt": "2026-07-27T08:30:05+09:00"
     },
     {
@@ -1087,13 +1131,13 @@
     {
       "keyword": "헌터",
       "naverLatest": 1.6,
-      "naverMomPct": -74.6,
+      "naverMomPct": 0,
       "naverYoyPct": -93.2,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "백팩",
@@ -1163,14 +1207,14 @@
     },
     {
       "keyword": "원피스수영복",
-      "naverLatest": 0.3,
-      "naverMomPct": -50,
-      "naverYoyPct": -99.4,
+      "naverLatest": 0.6,
+      "naverMomPct": 100,
+      "naverYoyPct": -98.9,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "쪼리",
@@ -1258,7 +1302,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-08-02T11:04:08+09:00"
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "우양산",
@@ -1333,9 +1377,9 @@
       "naverYoyPct": null,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
-      "pinterestLatest": null,
-      "pinterestYoyPct": null,
-      "updatedAt": "2026-07-27T08:30:05+09:00"
+      "pinterestLatest": 48,
+      "pinterestYoyPct": 41.2,
+      "updatedAt": "2026-08-03T08:30:03+09:00"
     },
     {
       "keyword": "브이넥원피스추천",
