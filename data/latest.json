@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "collectedAt": "2026-08-06T08:00:18+09:00",
+  "collectedAt": "2026-08-06T08:30:03+09:00",
   "sources": [
     {
       "id": "naver",
@@ -90,50 +90,50 @@
         },
         {
           "rank": 3,
-          "keyword": "백팩",
+          "keyword": "시너진",
           "change": 2,
           "isNew": false
         },
         {
           "rank": 4,
-          "keyword": "반바지",
-          "change": -1,
-          "isNew": false
-        },
-        {
-          "rank": 5,
-          "keyword": "시너진",
-          "change": -1,
-          "isNew": false
-        },
-        {
-          "rank": 6,
-          "keyword": "원피스",
+          "keyword": "백팩",
           "change": 0,
           "isNew": false
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "keyword": "가방",
+          "change": 1,
+          "isNew": false
+        },
+        {
+          "rank": 6,
           "keyword": "모자",
           "change": 1,
           "isNew": false
         },
         {
-          "rank": 8,
-          "keyword": "가방",
-          "change": -1,
+          "rank": 7,
+          "keyword": "반바지",
+          "change": -4,
           "isNew": false
         },
         {
-          "rank": 9,
-          "keyword": "바지",
+          "rank": 8,
+          "keyword": "버뮤다팬츠",
           "change": 0,
           "isNew": false
         },
         {
+          "rank": 9,
+          "keyword": "쪼리",
+          "change": 4,
+          "isNew": false
+        },
+        {
           "rank": 10,
-          "keyword": "나이키",
-          "change": 1,
+          "keyword": "스파오",
+          "change": 0,
           "isNew": false
         }
       ],
@@ -206,7 +206,7 @@
           "isNew": false
         }
       ],
-      "sourceUpdatedAt": "08.06 07:00",
+      "sourceUpdatedAt": "08.06 08:00",
       "dataDate": "2026-08-06"
     },
     {
