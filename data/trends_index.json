@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-06T08:30:04+09:00",
+  "updatedAt": "2026-08-07T10:46:29+09:00",
   "unit": "month",
   "months": 36,
   "youtubeAvailable": true,
   "pinterestCountry": "KR",
-  "pinterestAvailableCount": 33,
+  "pinterestAvailableCount": 34,
   "keywords": [
     {
       "keyword": "지지목걸이",
@@ -282,6 +282,17 @@
       "updatedAt": "2026-08-04T08:30:04+09:00"
     },
     {
+      "keyword": "발마칸코트",
+      "naverLatest": 0.9,
+      "naverMomPct": 80,
+      "naverYoyPct": 0,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 6,
+      "pinterestYoyPct": 0,
+      "updatedAt": "2026-08-07T10:46:29+09:00"
+    },
+    {
       "keyword": "나일론백팩",
       "naverLatest": 16.7,
       "naverMomPct": -80,
@@ -357,17 +368,6 @@
       "pinterestLatest": 49,
       "pinterestYoyPct": -29,
       "updatedAt": "2026-08-04T08:30:04+09:00"
-    },
-    {
-      "keyword": "발마칸코트",
-      "naverLatest": 0.5,
-      "naverMomPct": 66.7,
-      "naverYoyPct": -16.7,
-      "youtubeLatest": null,
-      "youtubeYoyPct": null,
-      "pinterestLatest": 2,
-      "pinterestYoyPct": -75,
-      "updatedAt": "2026-07-31T08:30:04+09:00"
     },
     {
       "keyword": "남자반팔티",
@@ -843,6 +843,17 @@
       "updatedAt": "2026-08-04T08:30:04+09:00"
     },
     {
+      "keyword": "롱슬리브",
+      "naverLatest": 2.5,
+      "naverMomPct": -39,
+      "naverYoyPct": -58.3,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": 35,
+      "pinterestYoyPct": 84.2,
+      "updatedAt": "2026-08-07T10:46:29+09:00"
+    },
+    {
       "keyword": "반바지",
       "naverLatest": 16.8,
       "naverMomPct": 17.5,
@@ -863,6 +874,17 @@
       "pinterestLatest": null,
       "pinterestYoyPct": null,
       "updatedAt": "2026-08-06T08:30:04+09:00"
+    },
+    {
+      "keyword": "감탄브라",
+      "naverLatest": 27.4,
+      "naverMomPct": 14.6,
+      "naverYoyPct": -59.7,
+      "youtubeLatest": null,
+      "youtubeYoyPct": null,
+      "pinterestLatest": null,
+      "pinterestYoyPct": null,
+      "updatedAt": "2026-08-07T10:46:29+09:00"
     },
     {
       "keyword": "남자반바지",
@@ -1137,7 +1159,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-31T08:30:04+09:00"
+      "updatedAt": "2026-08-07T10:46:29+09:00"
     },
     {
       "keyword": "루에브르 가방",
@@ -1401,7 +1423,7 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-08-06T08:30:04+09:00"
+      "updatedAt": "2026-08-07T10:46:29+09:00"
     },
     {
       "keyword": "우양산",
@@ -1456,18 +1478,18 @@
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-31T08:30:04+09:00"
+      "updatedAt": "2026-08-07T10:46:29+09:00"
     },
     {
       "keyword": "남자실내수영복",
-      "naverLatest": 12.5,
-      "naverMomPct": 0,
+      "naverLatest": 100,
+      "naverMomPct": 1104.8,
       "naverYoyPct": null,
       "youtubeLatest": null,
       "youtubeYoyPct": null,
       "pinterestLatest": null,
       "pinterestYoyPct": null,
-      "updatedAt": "2026-07-31T08:30:04+09:00"
+      "updatedAt": "2026-08-07T10:46:29+09:00"
     },
     {
       "keyword": "스틸레토힐",
